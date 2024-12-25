@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1e6a4368-f8e4-47ce-bce4-7f3e163563a9",
+  "files": [],
+  "subMetas": {
+    "ed8b6": {
+      "importer": "gltf-mesh",
+      "uuid": "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+      "displayName": "",
+      "id": "ed8b6",
+      "name": "Barrel.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b8a8": {
+      "importer": "gltf-scene",
+      "uuid": "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@3b8a8",
+      "displayName": "",
+      "id": "3b8a8",
+      "name": "Barrel2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@3b8a8",
+    "assetFinder": {
+      "meshes": [
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@8d883"
+      ],
+      "scenes": [
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@3b8a8"
+      ]
+    }
+  }
+}

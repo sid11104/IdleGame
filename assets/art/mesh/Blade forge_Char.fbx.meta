@@ -1,0 +1,586 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57146": {
+      "importer": "gltf-animation",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@57146",
+      "displayName": "",
+      "id": "57146",
+      "name": "Walk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8333333134651184
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {}
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "87456": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@87456",
+      "displayName": "",
+      "id": "87456",
+      "name": "Mesh.019.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 24
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1dcb4": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@1dcb4",
+      "displayName": "",
+      "id": "1dcb4",
+      "name": "Mesh.017.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 127
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "10dfa": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@10dfa",
+      "displayName": "",
+      "id": "10dfa",
+      "name": "Cylinder.005.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 118
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bbd92": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@bbd92",
+      "displayName": "",
+      "id": "bbd92",
+      "name": "Cylinder.004.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 36
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "faad7": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@faad7",
+      "displayName": "",
+      "id": "faad7",
+      "name": "Cylinder.003.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 35
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6e33": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c6e33",
+      "displayName": "",
+      "id": "c6e33",
+      "name": "Cube.002.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 104
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84b9c": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@84b9c",
+      "displayName": "",
+      "id": "84b9c",
+      "name": "Mesh.022.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 698
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fc45": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@0fc45",
+      "displayName": "",
+      "id": "0fc45",
+      "name": "Mesh.025.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 80
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "850f6": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@850f6",
+      "displayName": "",
+      "id": "850f6",
+      "name": "Mesh.023.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 70
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39b7c": {
+      "importer": "gltf-mesh",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@39b7c",
+      "displayName": "",
+      "id": "39b7c",
+      "name": "Mesh.027.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 132
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "129be": {
+      "importer": "gltf-animation",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@129be",
+      "displayName": "",
+      "id": "129be",
+      "name": "Idle.002.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.1666666716337204
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {}
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e9c47": {
+      "importer": "gltf-animation",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@e9c47",
+      "displayName": "",
+      "id": "e9c47",
+      "name": "Hammering.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.4166666567325592
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 0.75,
+        "auxiliaryCurves": {}
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c0bf2": {
+      "importer": "gltf-animation",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c0bf2",
+      "displayName": "",
+      "id": "c0bf2",
+      "name": "Walk_With_Stack.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8333333134651184
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1,
+        "auxiliaryCurves": {}
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a72ab": {
+      "importer": "gltf-skeleton",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@a72ab",
+      "displayName": "",
+      "id": "a72ab",
+      "name": "UnnamedSkeleton-3.skeleton",
+      "userData": {
+        "gltfIndex": 3,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2224c": {
+      "importer": "gltf-skeleton",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@2224c",
+      "displayName": "",
+      "id": "2224c",
+      "name": "UnnamedSkeleton-4.skeleton",
+      "userData": {
+        "gltfIndex": 4,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f71a": {
+      "importer": "gltf-material",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+      "displayName": "",
+      "id": "5f71a",
+      "name": "Char.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb0d8": {
+      "importer": "gltf-scene",
+      "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@eb0d8",
+      "displayName": "",
+      "id": "eb0d8",
+      "name": "Blade forge_Char.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@1dcb4",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@10dfa",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@87456",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@bbd92",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@faad7",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c6e33",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@84b9c",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@0fc45",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@850f6",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@39b7c"
+      ],
+      "skeletons": [
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@30732",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@f1394",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@75ee4",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@a72ab",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@2224c"
+      ],
+      "textures": [
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@7d6ab"
+      ],
+      "materials": [
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a"
+      ],
+      "scenes": [
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@eb0d8"
+      ]
+    },
+    "animationImportSettings": [
+      {
+        "name": "Walk",
+        "duration": 0.8333333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Walk",
+            "from": 0,
+            "to": 0.8333333134651184,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Idle.002",
+        "duration": 0.1666666716337204,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle.002",
+            "from": 0,
+            "to": 0.1666666716337204,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Hammering",
+        "duration": 0.4166666567325592,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Hammering",
+            "from": 0,
+            "to": 0.4166666567325592,
+            "fps": 30,
+            "wrapMode": 2,
+            "speed": 0.75
+          }
+        ]
+      },
+      {
+        "name": "Walk_With_Stack",
+        "duration": 0.8333333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Walk_With_Stack",
+            "from": 0,
+            "to": 0.8333333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@eb0d8"
+  }
+}

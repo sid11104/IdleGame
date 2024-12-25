@@ -1,0 +1,397 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/sinduja/joystick3D/assets/scene": {
+      "time": 1734626362958.0784,
+      "uuid": "4dac5043-2dfa-4ede-983b-c3ee38f55635"
+    },
+    "/Users/sinduja/joystick3D/assets/script": {
+      "time": 1734629938361.7537,
+      "uuid": "94bf19fd-a69a-410c-a12c-e90d4772575f"
+    },
+    "/Users/sinduja/joystick3D/assets/script/framwork": {
+      "time": 1734626362955.4138,
+      "uuid": "7908ce93-79e7-43d9-9cb3-4b97802fe11b"
+    },
+    "/Users/sinduja/joystick3D/assets/script/infinitymap": {
+      "time": 1734626362953.1323,
+      "uuid": "141dd477-a795-4b59-9be3-c23020cf9fa6"
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery": {
+      "time": 1734626362950.7368,
+      "uuid": "91d79f22-b3c8-44ff-959d-7314947f82f3"
+    },
+    "/Users/sinduja/joystick3D/assets/script/framwork/clientEvent.ts": {
+      "time": 1734626362955.5552,
+      "uuid": "e3e72cf2-e95e-45bb-95c9-8857b7ffab30"
+    },
+    "/Users/sinduja/joystick3D/assets/script/framwork/constant.ts": {
+      "time": 1734626362954.7644,
+      "uuid": "cc670f76-49c7-47d1-a887-7820f43b7b95"
+    },
+    "/Users/sinduja/joystick3D/assets/script/infinitymap/poolManager.ts": {
+      "time": 1734626362953.2808,
+      "uuid": "df910621-4489-47ff-8d9b-1480965ff908"
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/archery.ts": {
+      "time": 1734626362950.844,
+      "uuid": "be25fc93-ccc2-4171-bfd1-296abf271ce9"
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/archeryCamera.ts": {
+      "time": 1734626362947.6287,
+      "uuid": "c7905950-26cc-498b-bb08-f31d2cbd371d"
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/bloadBar.ts": {
+      "time": 1734626362946.5505,
+      "uuid": "81aebd5a-53fa-405c-a99e-5eb53e7d123e"
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/joystick.ts": {
+      "time": 1734626362945.596,
+      "uuid": "340453c6-090f-4c96-9cbc-77ea38500508"
+    },
+    "/Users/sinduja/joystick3D/assets/scene.meta": {
+      "time": 1734626362956.738
+    },
+    "/Users/sinduja/joystick3D/assets/script.meta": {
+      "time": 1734626362943.178
+    },
+    "/Users/sinduja/joystick3D/assets/script/framwork.meta": {
+      "time": 1734626362953.7168
+    },
+    "/Users/sinduja/joystick3D/assets/script/infinitymap.meta": {
+      "time": 1734626362951.2927
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery.meta": {
+      "time": 1734626362944.0754
+    },
+    "/Users/sinduja/joystick3D/assets/script/framwork/clientEvent.ts.meta": {
+      "time": 1734626362954.9797
+    },
+    "/Users/sinduja/joystick3D/assets/script/framwork/constant.ts.meta": {
+      "time": 1734626362954.3982
+    },
+    "/Users/sinduja/joystick3D/assets/script/infinitymap/poolManager.ts.meta": {
+      "time": 1734626362952.7686
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/archery.ts.meta": {
+      "time": 1734626362950.4307
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/archeryCamera.ts.meta": {
+      "time": 1734626362947.205
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/bloadBar.ts.meta": {
+      "time": 1734626362946.0376
+    },
+    "/Users/sinduja/joystick3D/assets/script/joystickarchery/joystick.ts.meta": {
+      "time": 1734626362945.2751
+    },
+    "/Users/sinduja/joystick3D/assets/scene/scene.scene": {
+      "time": 1734634595174.3535,
+      "uuid": "9937e160-e0a5-4f40-a065-ff520ed961cf"
+    },
+    "/Users/sinduja/joystick3D/assets/scene/scene.scene.meta": {
+      "time": 1734626362957.7715
+    },
+    "/Users/sinduja/joystick3D/assets/Material.meta": {
+      "time": 1734634582055.2014
+    },
+    "/Users/sinduja/joystick3D/assets/Material": {
+      "time": 1734634576030.1865,
+      "uuid": "f69d158c-0c38-42a8-9937-4c4680bc4024"
+    },
+    "/Users/sinduja/joystick3D/assets/Material/material.mtl.meta": {
+      "time": 1734626362960.491
+    },
+    "/Users/sinduja/joystick3D/assets/Material/material.mtl": {
+      "time": 1734633744993.338,
+      "uuid": "369f92d8-6f79-4edd-958c-e2644887dc1d"
+    },
+    "/Users/sinduja/joystick3D/assets/Texture.meta": {
+      "time": 1734634582055.4634
+    },
+    "/Users/sinduja/joystick3D/assets/Texture": {
+      "time": 1734634576042.6077,
+      "uuid": "a2b191c8-1031-4730-91a7-0a518f0e5551"
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/fightMove01.png.meta": {
+      "time": 1734626362963.2104
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/fightMove01.png": {
+      "time": 1734626362963.524,
+      "uuid": "9d24beec-7f21-498f-9855-4dd1a9071aaf"
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/fightMove02.png.meta": {
+      "time": 1734626362962.3145
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/fightMove02.png": {
+      "time": 1734626362962.652,
+      "uuid": "d945ed29-80ec-4d3f-93c0-7f016f7b29b6"
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/T_Char.png.meta": {
+      "time": 1734632225345.2117
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/T_Char.png": {
+      "time": 1734632225321.5432,
+      "uuid": "c7224d63-a603-4575-9e5d-88e1eb744582"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh.meta": {
+      "time": 1734634582055.314
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh": {
+      "time": 1734634576035.9226,
+      "uuid": "9f55e7d9-97d0-4d96-bd47-8a1da158fc1e"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/IdBr_character.fbx.meta": {
+      "time": 1734633676041.0522
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/IdBr_character.fbx": {
+      "time": 1734632225322.3457,
+      "uuid": "337401e8-20b1-460d-abc0-a6ed746a08ff"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefab.meta": {
+      "time": 1734634391651.7188
+    },
+    "/Users/sinduja/joystick3D/assets/Prefab": {
+      "time": 1734634398989.7903,
+      "uuid": "66010ffd-c718-455f-8733-530b35bc79b2"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefab/joystick.prefab.meta": {
+      "time": 1734626362972.7083
+    },
+    "/Users/sinduja/joystick3D/assets/Prefab/joystick.prefab": {
+      "time": 1734626362973.198,
+      "uuid": "e88b7e6c-09fe-4bda-aeff-937ca39d0fc1"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefab/line.prefab.meta": {
+      "time": 1734626362975.7888
+    },
+    "/Users/sinduja/joystick3D/assets/Prefab/line.prefab": {
+      "time": 1734626362975.9646,
+      "uuid": "0ad50083-a658-4f23-8d79-69060a5e2510"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs": {
+      "time": 1734634576038.2026,
+      "uuid": "99177553-552a-468b-bbb9-4ed4b65c6ad8"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs/Environment": {
+      "time": 1734634576038.5745,
+      "uuid": "35ae9a4f-bc45-4287-838c-93cf6f000c45"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs": {
+      "time": 1734634576040.0715,
+      "uuid": "66718903-4289-4a28-a0bf-f2283b28236e"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs.meta": {
+      "time": 1734634582055.3909
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs/Environment.meta": {
+      "time": 1734634582055.8354
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs.meta": {
+      "time": 1734634582056.1985
+    },
+    "/Users/sinduja/joystick3D/assets/Material/ATLAS Material.mtl": {
+      "time": 1734634582308.0327,
+      "uuid": "bd26023d-3922-4de0-b42a-01e5581a0f60"
+    },
+    "/Users/sinduja/joystick3D/assets/Material/Floor-002.mtl": {
+      "time": 1734634582308.0466,
+      "uuid": "a9102c8b-e562-49b7-8649-18e242cbc8dd"
+    },
+    "/Users/sinduja/joystick3D/assets/Material/Floor.mtl": {
+      "time": 1734634582308.1807,
+      "uuid": "ed83d6c5-73d7-4144-88e6-b9aa01fb029b"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Barrell.fbx": {
+      "time": 1734634576032.017,
+      "uuid": "44999bab-a29e-49c3-ad80-a29e8f6ec8a1"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Boundery.fbx": {
+      "time": 1734634576032.9504,
+      "uuid": "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Iron Ore.fbx": {
+      "time": 1734634576033.6934,
+      "uuid": "8f96e84d-521d-42ba-b4aa-b0f707cabdfc"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Raw Ore Box.fbx": {
+      "time": 1734634576034.3813,
+      "uuid": "419a16d9-64f2-404c-8bed-d5e8e650186a"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Table.fbx": {
+      "time": 1734634576034.9902,
+      "uuid": "03860489-75fe-43c8-bcd4-ba7434225bed"
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Tree1.fbx": {
+      "time": 1734634576035.6763,
+      "uuid": "6a14806c-5187-414a-9742-8805cfd2d8ea"
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/Floor Tile.jpg": {
+      "time": 1734634576041.7568,
+      "uuid": "3c5d2806-a0ac-44cc-94b1-463fd96c9624"
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/colormap.png": {
+      "time": 1734634576040.9785,
+      "uuid": "7f212e46-20a0-4148-8767-16be72be75df"
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/texture_atlas.jpg": {
+      "time": 1734634576042.2896,
+      "uuid": "3da7bd6f-dc65-4726-ad9f-0a7bb653cee6"
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs/Environments-NEW.prefab": {
+      "time": 1734634585211.7632,
+      "uuid": "5f4d4337-8466-4175-9b71-a5d74f65ca58"
+    },
+    "/Users/sinduja/joystick3D/assets/Material/Floor-002.mtl.meta": {
+      "time": 1734634582622.3872
+    },
+    "/Users/sinduja/joystick3D/assets/Material/ATLAS Material.mtl.meta": {
+      "time": 1734634582822.727
+    },
+    "/Users/sinduja/joystick3D/assets/Material/Floor.mtl.meta": {
+      "time": 1734634582825.7717
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Barrell.fbx.meta": {
+      "time": 1734634584996.0461
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Iron Ore.fbx.meta": {
+      "time": 1734634585000.9053
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Raw Ore Box.fbx.meta": {
+      "time": 1734634585199.4353
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/colormap.png.meta": {
+      "time": 1734634585207.4429
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/Floor Tile.jpg.meta": {
+      "time": 1734634585208.468
+    },
+    "/Users/sinduja/joystick3D/assets/Texture/texture_atlas.jpg.meta": {
+      "time": 1734634585215.2722
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Boundery.fbx.meta": {
+      "time": 1734634585217.0728
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Table.fbx.meta": {
+      "time": 1734634585218.7358
+    },
+    "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs/Environments-NEW.prefab.meta": {
+      "time": 1734634585220.5051
+    },
+    "/Users/sinduja/joystick3D/assets/Mesh/Tree1.fbx.meta": {
+      "time": 1734634585235.6812
+    }
+  },
+  "missing": {
+    "8749de86-069a-4013-8535-ed82bde68519": {
+      "path": "/Users/sinduja/joystick3D/assets/prefab/bloadBar.prefab",
+      "time": 1734626362976.3213,
+      "removeTime": 1734634093809
+    },
+    "1a04a3e5-ca0c-4d15-add0-7507ac05f219": {
+      "path": "/Users/sinduja/joystick3D/assets/res/blood/fightBlood03.png",
+      "time": 1734626362970.682,
+      "removeTime": 1734634114093
+    },
+    "7b89add9-df42-42a5-8b54-ddeb2becd406": {
+      "path": "/Users/sinduja/joystick3D/assets/res/blood/fightBlood01.png",
+      "time": 1734626362971.33,
+      "removeTime": 1734634114093
+    },
+    "65d4f8db-5d4a-4409-8d92-2656daeec15b": {
+      "path": "/Users/sinduja/joystick3D/assets/res/blood/fightBlood04.png",
+      "time": 1734626362969.8997,
+      "removeTime": 1734634114093
+    },
+    "f2338dd2-06c1-4e06-b313-e7b1075f0925": {
+      "path": "/Users/sinduja/joystick3D/assets/res/blood/singleColor.png",
+      "time": 1734626362968.927,
+      "removeTime": 1734634114093
+    },
+    "3d30a472-9063-4257-8b59-6aa82a269d95": {
+      "path": "/Users/sinduja/joystick3D/assets/res/fbxTexture2D",
+      "time": 1734626362966.6128,
+      "removeTime": 1734634114093
+    },
+    "f0c02722-08de-4852-8dbd-92149b6fd895": {
+      "path": "/Users/sinduja/joystick3D/assets/res/fbxTexture2D/clown.png",
+      "time": 1734626362967.1875,
+      "removeTime": 1734634114093
+    },
+    "e2b946a9-1fb7-4b4f-a5e9-81322b29d177": {
+      "path": "/Users/sinduja/joystick3D/assets/res/fbxTexture2D/clown_LOD.fbx",
+      "time": 1734626362965.4207,
+      "removeTime": 1734634114093
+    },
+    "1eb241d1-13da-4f68-9aba-0ab81aa556e2": {
+      "path": "/Users/sinduja/joystick3D/assets/res/blood",
+      "time": 1734634114091.8567,
+      "removeTime": 1734634130223
+    },
+    "369f92d8-6f79-4edd-958c-e2644887dc1d": {
+      "path": "/Users/sinduja/joystick3D/assets/res/material/material.mtl",
+      "time": 1734633744993.338,
+      "removeTime": 1734634366830
+    },
+    "20a94eba-8d09-4e88-92bf-f62bc0f69797": {
+      "path": "/Users/sinduja/joystick3D/assets/res/material",
+      "time": 1734634366829.9485,
+      "removeTime": 1734634374583
+    },
+    "0ad50083-a658-4f23-8d79-69060a5e2510": {
+      "path": "/Users/sinduja/joystick3D/assets/Prefab-001/line.prefab",
+      "time": 1734626362975.9646,
+      "removeTime": 1734634552299
+    },
+    "e88b7e6c-09fe-4bda-aeff-937ca39d0fc1": {
+      "path": "/Users/sinduja/joystick3D/assets/Prefab-001/joystick.prefab",
+      "time": 1734626362973.198,
+      "removeTime": 1734634552299
+    },
+    "2747965b-aaf5-4350-94ba-c53b0270e520": {
+      "path": "/Users/sinduja/joystick3D/assets/prefab",
+      "time": 1734634398989.7903,
+      "removeTime": 1734634401840
+    },
+    "31834a71-a24c-4ae9-abd9-5a1f18604526": {
+      "path": "/Users/sinduja/joystick3D/assets/prefab/joysticarchery",
+      "time": 1734634397441.984,
+      "removeTime": 1734634401840
+    },
+    "9d24beec-7f21-498f-9855-4dd1a9071aaf": {
+      "path": "/Users/sinduja/joystick3D/assets/res/joystick/fightMove01.png",
+      "time": 1734626362963.524,
+      "removeTime": 1734634419395
+    },
+    "d945ed29-80ec-4d3f-93c0-7f016f7b29b6": {
+      "path": "/Users/sinduja/joystick3D/assets/res/joystick/fightMove02.png",
+      "time": 1734626362962.652,
+      "removeTime": 1734634420964
+    },
+    "c7224d63-a603-4575-9e5d-88e1eb744582": {
+      "path": "/Users/sinduja/joystick3D/assets/T_Char.png",
+      "time": 1734632225321.5432,
+      "removeTime": 1734634423128
+    },
+    "4101cf88-5c3e-44b7-846d-bcc23a667105": {
+      "path": "/Users/sinduja/joystick3D/assets/res",
+      "time": 1734634374582.3147,
+      "removeTime": 1734634426970
+    },
+    "2172c97b-7d9e-4777-8a4f-fc1691bcdcef": {
+      "path": "/Users/sinduja/joystick3D/assets/res/joystick",
+      "time": 1734634420964.2327,
+      "removeTime": 1734634426970
+    },
+    "337401e8-20b1-460d-abc0-a6ed746a08ff": {
+      "path": "/Users/sinduja/joystick3D/assets/IdBr_character.fbx",
+      "time": 1734632225322.3457,
+      "removeTime": 1734634441274
+    },
+    "66010ffd-c718-455f-8733-530b35bc79b2": {
+      "path": "/Users/sinduja/joystick3D/assets/Prefab-001",
+      "time": 1734634398989.7903,
+      "removeTime": 1734634552298
+    }
+  }
+}

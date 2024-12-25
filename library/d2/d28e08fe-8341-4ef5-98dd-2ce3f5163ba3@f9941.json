@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bottle",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 88,
+      "height": 134
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 88,
+      "height": 134
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -44,
+        -67,
+        0,
+        44,
+        -67,
+        0,
+        -44,
+        67,
+        0,
+        44,
+        67,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        134,
+        88,
+        134,
+        0,
+        0,
+        88,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -44,
+        "y": -67,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 44,
+        "y": 67,
+        "z": 0
+      }
+    },
+    "texture": "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "__version__": "1.3.3",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "scenes": [
+      {
+        "url": "db://assets/scene/MainScene.scene",
+        "uuid": "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+        "inBundle": false
+      }
+    ],
+    "buildPath": "project://build",
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "startScene": "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+    "name": "Estoty-Test",
+    "replaceSplashScreen": true
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1734887313282": {
+        "type": "build",
+        "id": "1734887313282",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "26-12-2024 01:54:18 Build success in 7957 ms!",
+        "options": {
+          "name": "Estoty-Test",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "replaceSplashScreen": true,
+          "startScene": "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+          "outputName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/scene/MainScene.scene",
+              "uuid": "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+              "inBundle": false
+            }
+          ],
+          "web-desktop": [],
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "embedWebDebugger": false,
+              "__version__": "1.0.1"
+            },
+            "cocos-service": {
+              "configID": "f2a10a",
+              "services": [],
+              "__version__": "3.0.5"
+            }
+          },
+          "__version__": "1.3.3",
+          "web-mobile": []
+        },
+        "time": "26-12-2024 01:54",
+        "dirty": false
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "__version__": "1.0.2",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "player"
+      },
+      {
+        "index": 2,
+        "name": "tree"
+      },
+      {
+        "index": 3,
+        "name": "weapon"
+      },
+      {
+        "index": 4,
+        "name": "floor"
+      },
+      {
+        "index": 5,
+        "name": "barrel"
+      },
+      {
+        "index": 6,
+        "name": "glass"
+      },
+      {
+        "index": 7,
+        "name": "Boxes"
+      },
+      {
+        "index": 8,
+        "name": "Gate"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 2,
+      "1": 509,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2
+    },
+    "defaultMaterial": {
+      "restitution": 0.1,
+      "friction": 0.5,
+      "rollingFriction": 0.1,
+      "spinningFriction": 0.1
+    }
+  },
+  "general": {
+    "designResolution": {
+      "fitHeight": true,
+      "width": 640,
+      "height": 960
+    }
+  }
+}

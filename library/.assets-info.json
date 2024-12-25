@@ -1,0 +1,2002 @@
+{
+  "/Users/sinduja/joystick3D/assets/Material": {
+    "time": 1734792300811.9229,
+    "uuid": "f69d158c-0c38-42a8-9937-4c4680bc4024",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh": {
+    "time": 1734756286985.0256,
+    "uuid": "9f55e7d9-97d0-4d96-bd47-8a1da158fc1e",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab": {
+    "time": 1734839122602.4958,
+    "uuid": "66010ffd-c718-455f-8733-530b35bc79b2",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture": {
+    "time": 1735013979444.2693,
+    "uuid": "a2b191c8-1031-4730-91a7-0a518f0e5551",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/scene": {
+    "time": 1734626362958.0784,
+    "uuid": "4dac5043-2dfa-4ede-983b-c3ee38f55635",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script": {
+    "time": 1735043842639.9827,
+    "uuid": "94bf19fd-a69a-410c-a12c-e90d4772575f",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/framwork": {
+    "time": 1734626362955.4138,
+    "uuid": "7908ce93-79e7-43d9-9cb3-4b97802fe11b",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/script/infinitymap": {
+    "time": 1734626362953.1323,
+    "uuid": "141dd477-a795-4b59-9be3-c23020cf9fa6",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery": {
+    "time": 1734626362950.7368,
+    "uuid": "91d79f22-b3c8-44ff-959d-7314947f82f3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/framwork/clientEvent.ts": {
+    "time": 1734626362955.5552,
+    "uuid": "e3e72cf2-e95e-45bb-95c9-8857b7ffab30",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/framwork/constant.ts": {
+    "time": 1735047884876.6245,
+    "uuid": "cc670f76-49c7-47d1-a887-7820f43b7b95",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/infinitymap/poolManager.ts": {
+    "time": 1734626362953.2808,
+    "uuid": "df910621-4489-47ff-8d9b-1480965ff908",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/archery.ts": {
+    "time": 1735029218424.0903,
+    "uuid": "be25fc93-ccc2-4171-bfd1-296abf271ce9",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/archeryCamera.ts": {
+    "time": 1735029223894.9634,
+    "uuid": "c7905950-26cc-498b-bb08-f31d2cbd371d",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/bloadBar.ts": {
+    "time": 1734772399525.9758,
+    "uuid": "81aebd5a-53fa-405c-a99e-5eb53e7d123e",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/joystick.ts": {
+    "time": 1734934421997.0745,
+    "uuid": "340453c6-090f-4c96-9cbc-77ea38500508",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material.meta": {
+    "time": 1734634637216.191
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh.meta": {
+    "time": 1734634637216.2844
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab.meta": {
+    "time": 1734634637216.3525
+  },
+  "/Users/sinduja/joystick3D/assets/Texture.meta": {
+    "time": 1734634637216.4756
+  },
+  "/Users/sinduja/joystick3D/assets/scene.meta": {
+    "time": 1734634637217.1128
+  },
+  "/Users/sinduja/joystick3D/assets/script.meta": {
+    "time": 1734634637217.3743
+  },
+  "/Users/sinduja/joystick3D/assets/script/framwork.meta": {
+    "time": 1734634637218.3164
+  },
+  "/Users/sinduja/joystick3D/assets/script/infinitymap.meta": {
+    "time": 1734634637218.5173
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery.meta": {
+    "time": 1734634637219.3918
+  },
+  "/Users/sinduja/joystick3D/assets/script/framwork/clientEvent.ts.meta": {
+    "time": 1734626362954.9797
+  },
+  "/Users/sinduja/joystick3D/assets/script/framwork/constant.ts.meta": {
+    "time": 1734626362954.3982
+  },
+  "/Users/sinduja/joystick3D/assets/script/infinitymap/poolManager.ts.meta": {
+    "time": 1734626362952.7686
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/archery.ts.meta": {
+    "time": 1734626362950.4307
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/archeryCamera.ts.meta": {
+    "time": 1734626362947.205
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/bloadBar.ts.meta": {
+    "time": 1734626362946.0376
+  },
+  "/Users/sinduja/joystick3D/assets/script/joystickarchery/joystick.ts.meta": {
+    "time": 1734626362945.2751
+  },
+  "/Users/sinduja/joystick3D/assets/Material/material.mtl": {
+    "time": 1734633744993.338,
+    "uuid": "369f92d8-6f79-4edd-958c-e2644887dc1d",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/IdBr_character.fbx": {
+    "time": 1734632225322.3457,
+    "uuid": "337401e8-20b1-460d-abc0-a6ed746a08ff",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/joystick.prefab": {
+    "time": 1734634641249.872,
+    "uuid": "e88b7e6c-09fe-4bda-aeff-937ca39d0fc1",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/line.prefab": {
+    "time": 1734626362975.9646,
+    "uuid": "0ad50083-a658-4f23-8d79-69060a5e2510",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/T_Char.png": {
+    "time": 1734632225321.5432,
+    "uuid": "c7224d63-a603-4575-9e5d-88e1eb744582",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/fightMove01.png": {
+    "time": 1734626362963.524,
+    "uuid": "9d24beec-7f21-498f-9855-4dd1a9071aaf",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/fightMove02.png": {
+    "time": 1734626362962.652,
+    "uuid": "d945ed29-80ec-4d3f-93c0-7f016f7b29b6",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/scene/scene.scene": {
+    "time": 1734758500515.366,
+    "uuid": "9937e160-e0a5-4f40-a065-ff520ed961cf",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/material.mtl.meta": {
+    "time": 1734634639229.4565
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/joystick.prefab.meta": {
+    "time": 1734634641409.5564
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/line.prefab.meta": {
+    "time": 1734634641414.087
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/T_Char.png.meta": {
+    "time": 1734634641675.2605
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/IdBr_character.fbx.meta": {
+    "time": 1735029271918.3657
+  },
+  "/Users/sinduja/joystick3D/assets/scene/scene.scene.meta": {
+    "time": 1734634641710.3616
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/fightMove01.png.meta": {
+    "time": 1734634641717.1675
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/fightMove02.png.meta": {
+    "time": 1734634641720.5798
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs": {
+    "time": 1734855825609.2026,
+    "uuid": "99177553-552a-468b-bbb9-4ed4b65c6ad8",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Environment": {
+    "time": 1734635579391.3215,
+    "uuid": "35ae9a4f-bc45-4287-838c-93cf6f000c45",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs": {
+    "time": 1734635579392.731,
+    "uuid": "66718903-4289-4a28-a0bf-f2283b28236e",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs.meta": {
+    "time": 1734635579390.6775
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Environment.meta": {
+    "time": 1734635579391.0317
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs.meta": {
+    "time": 1734635579391.385
+  },
+  "/Users/sinduja/joystick3D/assets/Material/ATLAS Material.mtl": {
+    "time": 1734848126917.394,
+    "uuid": "bd26023d-3922-4de0-b42a-01e5581a0f60",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/Floor-002.mtl": {
+    "time": 1734635579385.2725,
+    "uuid": "a9102c8b-e562-49b7-8649-18e242cbc8dd",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/Floor.mtl": {
+    "time": 1734773184182.1633,
+    "uuid": "ed83d6c5-73d7-4144-88e6-b9aa01fb029b",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Barrell.fbx": {
+    "time": 1734635579385.9922,
+    "uuid": "44999bab-a29e-49c3-ad80-a29e8f6ec8a1",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Boundery.fbx": {
+    "time": 1734635579386.8694,
+    "uuid": "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Iron Ore.fbx": {
+    "time": 1734635579387.7646,
+    "uuid": "8f96e84d-521d-42ba-b4aa-b0f707cabdfc",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Raw Ore Box.fbx": {
+    "time": 1734635579388.4343,
+    "uuid": "419a16d9-64f2-404c-8bed-d5e8e650186a",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Table.fbx": {
+    "time": 1734635579389.1575,
+    "uuid": "03860489-75fe-43c8-bcd4-ba7434225bed",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Tree1.fbx": {
+    "time": 1734635579389.9695,
+    "uuid": "6a14806c-5187-414a-9742-8805cfd2d8ea",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/colormap.png": {
+    "time": 1734635579393.1194,
+    "uuid": "7f212e46-20a0-4148-8767-16be72be75df",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/texture_atlas.jpg": {
+    "time": 1734635579394.976,
+    "uuid": "3da7bd6f-dc65-4726-ad9f-0a7bb653cee6",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs/Environments-NEW.prefab": {
+    "time": 1734802654677.0442,
+    "uuid": "5f4d4337-8466-4175-9b71-a5d74f65ca58",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/Floor-002.mtl.meta": {
+    "time": 1734635579385.6104
+  },
+  "/Users/sinduja/joystick3D/assets/Material/ATLAS Material.mtl.meta": {
+    "time": 1734635579383.9856
+  },
+  "/Users/sinduja/joystick3D/assets/Material/Floor.mtl.meta": {
+    "time": 1734635579384.893
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Barrell.fbx.meta": {
+    "time": 1734635579386.4194
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Raw Ore Box.fbx.meta": {
+    "time": 1734760481548.6992
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Iron Ore.fbx.meta": {
+    "time": 1734760467991.8015
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/colormap.png.meta": {
+    "time": 1734635579393.3906
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Environment/Prefabs/Environments-NEW.prefab.meta": {
+    "time": 1734635579392.8308
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/texture_atlas.jpg.meta": {
+    "time": 1734635579395.3816
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Table.fbx.meta": {
+    "time": 1734635579389.6367
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Boundery.fbx.meta": {
+    "time": 1734760443514.4707
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Tree1.fbx.meta": {
+    "time": 1734635579390.2834
+  },
+  "/Users/sinduja/joystick3D/assets/playercontroller.animgraph.meta": {
+    "time": 1734637749352.6658
+  },
+  "/Users/sinduja/joystick3D/assets/playercontroller.animgraph": {
+    "time": 1734637927325.806,
+    "uuid": "bd9bf3e3-465c-4c2a-8215-ea4cb26a92de",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Standard Sword.fbx.meta": {
+    "time": 1734761084822.9612
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Standard Sword.fbx": {
+    "time": 1734694686687.443,
+    "uuid": "3a6becdf-afaf-435a-b9d3-763041b5c882",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/Tree1.prefab.meta": {
+    "time": 1734701333594.8325
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/Tree1.prefab": {
+    "time": 1734967009063.7788,
+    "uuid": "ced56065-b4ec-4baa-97f4-c18ad285d983",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Barrel2.fbx.meta": {
+    "time": 1734715969289.447
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Barrel2.fbx": {
+    "time": 1734715969113.3865,
+    "uuid": "1e6a4368-f8e4-47ce-bce4-7f3e163563a9",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/barrel.mtl.meta": {
+    "time": 1734716816399.208
+  },
+  "/Users/sinduja/joystick3D/assets/Material/barrel.mtl": {
+    "time": 1734717019288.609,
+    "uuid": "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/BarrelTexture.meta": {
+    "time": 1734716983437.657
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/BarrelTexture": {
+    "time": 1734923449226.754,
+    "uuid": "3e9fc65e-759c-4969-85a7-d245210251ce",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/BarrelTexture/Red_barrel.png.meta": {
+    "time": 1734586032212.9487
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/BarrelTexture/Red_barrel_Normal_map.png.meta": {
+    "time": 1734586032212.6143
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/BarrelTexture/Red_barrel_Normal_map.png": {
+    "time": 1721907358000,
+    "uuid": "2cb48610-90be-46f0-96ff-0e599ae57a83",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/BarrelTexture/Red_barrel.png": {
+    "time": 1721907358000,
+    "uuid": "ffe16166-a497-4efa-a6bb-492646542073",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art": {
+    "time": 1734977625020.267,
+    "uuid": "634cf92a-ed9e-4503-9682-80c6b85314fa",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material": {
+    "time": 1734874750299.7612,
+    "uuid": "0fec7dd1-48c1-4a4e-bf4f-aca7f49aeeb1",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh": {
+    "time": 1734855825608.3518,
+    "uuid": "b1257cdd-ecc9-4937-a4e9-c5185db2165a",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture": {
+    "time": 1735011663999.266,
+    "uuid": "0d0592d2-5b5c-49dd-9958-d6364c7013bb",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art.meta": {
+    "time": 1734719511984.9363
+  },
+  "/Users/sinduja/joystick3D/assets/art/material.meta": {
+    "time": 1734719511985.37
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh.meta": {
+    "time": 1734719511985.6118
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture.meta": {
+    "time": 1734719511985.839
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Anvil_Customer Character.prefab": {
+    "time": 1734719512112.349,
+    "uuid": "be503da1-85ea-4d68-bdd0-9f83b0ba8545",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/ATLAS Material.mtl": {
+    "time": 1734719510033.0376,
+    "uuid": "4a1a7f14-b759-4c09-a2d8-723048156cda",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/Anvil.fbx": {
+    "time": 1734719510034.3823,
+    "uuid": "52855b41-3e18-49b2-8eb4-9db266e6b10d",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/Blade forge_Char.fbx": {
+    "time": 1734719510039.166,
+    "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/Hammer.fbx": {
+    "time": 1734719510040.0686,
+    "uuid": "fdac6ffe-a41b-413f-b472-e71ea259b1e4",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/texture_atlas.jpg": {
+    "time": 1734719510041.0698,
+    "uuid": "9d92737d-bf07-4db5-9bef-cbd2655a4c64",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/ATLAS Material.mtl.meta": {
+    "time": 1734719512112.993
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Anvil_Customer Character.prefab.meta": {
+    "time": 1734719512114.818
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/texture_atlas.jpg.meta": {
+    "time": 1734719512497.8245
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/Hammer.fbx.meta": {
+    "time": 1734719513129.9275
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/Anvil.fbx.meta": {
+    "time": 1734719513130.2253
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/Blade forge_Char.fbx.meta": {
+    "time": 1734719513382.4497
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/bottle1.fbx.meta": {
+    "time": 1734756268796.7805
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/bottle1.fbx": {
+    "time": 1734756268591.1335,
+    "uuid": "d97ba9c0-3897-4380-aa6f-4f0a36458ada",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Cactus.fbx.meta": {
+    "time": 1734756278805.3794
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/Cactus.fbx": {
+    "time": 1734756278635.1165,
+    "uuid": "f0ffc5c1-d3da-475c-8aae-269daf6d1aac",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/can.fbx.meta": {
+    "time": 1734756282591.6726
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/can.fbx": {
+    "time": 1734756282436.9175,
+    "uuid": "1fae3d22-984d-4cc8-b4dc-9fdba47881a3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/soap.fbx.meta": {
+    "time": 1734756287124.49
+  },
+  "/Users/sinduja/joystick3D/assets/Mesh/soap.fbx": {
+    "time": 1734756286984.6155,
+    "uuid": "2e20cff0-2e5c-4f57-a66c-46d071395c72",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/cactus.mtl.meta": {
+    "time": 1734757885717.4421
+  },
+  "/Users/sinduja/joystick3D/assets/Material/cactus.mtl": {
+    "time": 1734758413382.0188,
+    "uuid": "5df68e70-d7da-46b9-8d6e-983cea3c3f17",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/Cactus.png.meta": {
+    "time": 1734758221487.8792
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/Cactus.png": {
+    "time": 1713176486000,
+    "uuid": "9efa73cb-f316-4a4f-a028-2676b6905bf3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Materials": {
+    "time": 1734758690589.677,
+    "uuid": "50fe9e52-cc75-4514-9b6a-cde1eb947a7c",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Materials.meta": {
+    "time": 1734758690588.0527
+  },
+  "/Users/sinduja/joystick3D/assets/Materials/Glass.mtl": {
+    "time": 1735042718965.6296,
+    "uuid": "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/Glass.prefab": {
+    "time": 1734758690590.2153,
+    "uuid": "d41c20cf-c1ae-490d-8397-6858fd02016b",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Materials/Glass.mtl.meta": {
+    "time": 1734758690589.7554
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/Glass.prefab.meta": {
+    "time": 1734758690590.5847
+  },
+  "/Users/sinduja/joystick3D/assets/main.scene.meta": {
+    "time": 1734758720154.5066
+  },
+  "/Users/sinduja/joystick3D/assets/main.scene": {
+    "time": 1734873406738.0503,
+    "uuid": "ac94f3da-e6b6-4e66-8c7c-7814f8c860f1",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/grass.mtl.meta": {
+    "time": 1734761409284.0498
+  },
+  "/Users/sinduja/joystick3D/assets/Material/grass.mtl": {
+    "time": 1734763560292.8457,
+    "uuid": "9ac51807-0709-4904-910d-3a1e69a27206",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/grass.png.meta": {
+    "time": 1734761432746.0625
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/grass.png": {
+    "time": 1734761432739.6116,
+    "uuid": "f27992a7-1f70-4500-9611-d27162c024d3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/Pointer.png.meta": {
+    "time": 1734765209362.408
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/Pointer.png": {
+    "time": 1734765183416.5654,
+    "uuid": "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/WeaponManagement.ts.meta": {
+    "time": 1734765320738.5627
+  },
+  "/Users/sinduja/joystick3D/assets/script/WeaponManagement.ts": {
+    "time": 1735051283063.09,
+    "uuid": "f0c68caf-2de5-45a6-ac2a-6cbd5a86de7a",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/GameManager.ts.meta": {
+    "time": 1734765451647.7275
+  },
+  "/Users/sinduja/joystick3D/assets/script/GameManager.ts": {
+    "time": 1735051397858.7,
+    "uuid": "93714afd-a5f5-450d-b020-a7cb741dfac3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/godray.png.meta": {
+    "time": 1734766650183.8936
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/godray.png": {
+    "time": 1734766637377.0142,
+    "uuid": "2f605507-e4dd-4455-800e-55ddafb1c9fa",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/sword-png-24.png.meta": {
+    "time": 1734767491053.0508
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/sword-png-24.png": {
+    "time": 1734767468113.046,
+    "uuid": "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/pointerwobble.anim.meta": {
+    "time": 1734767841538.148
+  },
+  "/Users/sinduja/joystick3D/assets/pointerwobble.anim": {
+    "time": 1734768387388.416,
+    "uuid": "9e66c132-fbe3-42f5-b1cf-9c2fd1f5e94a",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/godray.anim.meta": {
+    "time": 1734768051157.8547
+  },
+  "/Users/sinduja/joystick3D/assets/godray.anim": {
+    "time": 1734768339805.611,
+    "uuid": "e38d3411-ab81-45bd-a073-cd99759f385d",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/Floor Tile.jpg.meta": {
+    "time": 1734773171118.3325
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/Floor Tile.jpg": {
+    "time": 1734773056397.1375,
+    "uuid": "976a46b7-008b-4ce1-a6cd-e713c66ea0fc",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/PlayerChop.ts.meta": {
+    "time": 1734785765722.1016
+  },
+  "/Users/sinduja/joystick3D/assets/script/PlayerChop.ts": {
+    "time": 1735047862648.77,
+    "uuid": "088d9ca3-2cd7-4728-89e7-e8e9cdf6ffad",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Material/tree.pmtl.meta": {
+    "time": 1734792300813.1123
+  },
+  "/Users/sinduja/joystick3D/assets/Material/tree.pmtl": {
+    "time": 1734836876259.5642,
+    "uuid": "9910458f-58eb-4254-a201-f606151e6575",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/test.scene.meta": {
+    "time": 1734803041615.4578
+  },
+  "/Users/sinduja/joystick3D/assets/test.scene": {
+    "time": 1734803638034.1797,
+    "uuid": "7d5131b3-6c69-4fe2-ae0a-80f1ac43920c",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Mainplayer.prefab.meta": {
+    "time": 1734803478504.0945
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Mainplayer.prefab": {
+    "time": 1734803478502.6323,
+    "uuid": "3786fa91-5f81-4597-a160-a2feef236523",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/IdBr_character.prefab.meta": {
+    "time": 1734839122604.7102
+  },
+  "/Users/sinduja/joystick3D/assets/Prefab/IdBr_character.prefab": {
+    "time": 1734839122603.865,
+    "uuid": "2755bac0-8351-43b8-abaa-4c4af5ea88bb",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/swing.anim.meta": {
+    "time": 1734839963500.591
+  },
+  "/Users/sinduja/joystick3D/assets/swing.anim": {
+    "time": 1734839963497.0708,
+    "uuid": "6bf59149-acd2-4f38-876a-76b98351c044",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/treewobble.anim.meta": {
+    "time": 1734849964450.4917
+  },
+  "/Users/sinduja/joystick3D/assets/treewobble.anim": {
+    "time": 1734851330609.3474,
+    "uuid": "257148e6-a550-4795-8972-84a12ccece04",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/Materials": {
+    "time": 1734855825607.168,
+    "uuid": "deaa3a77-1383-4795-b9cf-9c3b68f41201",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/art/Materials.meta": {
+    "time": 1734855825605.1484
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Poof.prefab": {
+    "time": 1734855825608.9604,
+    "uuid": "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/Materials/Sphere.mtl": {
+    "time": 1734855825606.7888,
+    "uuid": "bc21220b-37f7-4189-b551-47f6b84a9459",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/sphere.fbx": {
+    "time": 1734855825607.9841,
+    "uuid": "ce6f25e1-5ad8-4ea6-a351-79ccb8eec828",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/Materials/Sphere.mtl.meta": {
+    "time": 1734855825607.319
+  },
+  "/Users/sinduja/joystick3D/assets/Prefabs/Poof.prefab.meta": {
+    "time": 1734855825609.2817
+  },
+  "/Users/sinduja/joystick3D/assets/art/mesh/sphere.fbx.meta": {
+    "time": 1734855825608.4558
+  },
+  "/Users/sinduja/joystick3D/assets/script/BarrelChop.ts.meta": {
+    "time": 1734869490012.5972
+  },
+  "/Users/sinduja/joystick3D/assets/script/BarrelChop.ts": {
+    "time": 1735048177478.9192,
+    "uuid": "5940ab4e-5947-433d-9726-d5c8cb0506f0",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/barrelcompress.anim.meta": {
+    "time": 1734872840398.0803
+  },
+  "/Users/sinduja/joystick3D/assets/barrelcompress.anim": {
+    "time": 1734873405712.0913,
+    "uuid": "d468ba04-8873-4701-9f73-80fd450f63eb",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/PFX": {
+    "time": 1734874444561.9885,
+    "uuid": "66657f99-eff8-4ba0-ac77-1cf3b75f6b96",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/PFX.meta": {
+    "time": 1734874446316.219
+  },
+  "/Users/sinduja/joystick3D/assets/art/PFX/Dust.plist": {
+    "time": 1734874444561.5713,
+    "uuid": "9a8dd05c-a482-4871-a85d-370ea2028994",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/PFX/Dust.prefab": {
+    "time": 1734874444560.3462,
+    "uuid": "fd88a05c-0d2b-4e51-89f9-8f06ed9ffaed",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/PFX/Dust.prefab.meta": {
+    "time": 1734874446412.0403
+  },
+  "/Users/sinduja/joystick3D/assets/art/PFX/Dust.plist.meta": {
+    "time": 1734874444562.067
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab": {
+    "time": 1734881824259.537,
+    "uuid": "be12919a-35c4-4372-9e26-ccd564e0a3eb",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab/PFX": {
+    "time": 1734874750306.5828,
+    "uuid": "e504f515-91c2-4564-a734-859b9621429f",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX": {
+    "time": 1734881824258.417,
+    "uuid": "8f8c3f5f-0614-4616-850f-d80ef8cfcc37",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PFX": {
+    "time": 1734874750308.0986,
+    "uuid": "30ef0d0e-f31f-4a01-b3df-83cd5d6b5f3a",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab.meta": {
+    "time": 1734874752218.5234
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab/PFX.meta": {
+    "time": 1734874752219.5981
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX.meta": {
+    "time": 1734874752219.989
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PFX.meta": {
+    "time": 1734874752220.3704
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab/PFX/Explosion.prefab": {
+    "time": 1734874752344.7224,
+    "uuid": "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX/Explosion.mtl": {
+    "time": 1734874750303.004,
+    "uuid": "620b1881-f51a-475f-988d-9044c3785bc9",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX/SmokePuff.mtl": {
+    "time": 1734874750304.0974,
+    "uuid": "3544531c-73a7-44a7-ae2a-d6939f4e9c82",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PFX/Expolsion.png": {
+    "time": 1734874750307.2954,
+    "uuid": "40c61929-b435-46dd-bd45-5ff3f896f451",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PFX/SmokePuff.png": {
+    "time": 1734874750307.8914,
+    "uuid": "664b75c1-cff8-45ff-8e71-1977a4d33dbe",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX/SmokePuff.mtl.meta": {
+    "time": 1734874752344.4668
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX/Explosion.mtl.meta": {
+    "time": 1734874752345.2751
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab/PFX/Explosion.prefab.meta": {
+    "time": 1734874752348.7317
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PFX/SmokePuff.png.meta": {
+    "time": 1734874752352.1838
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PFX/Expolsion.png.meta": {
+    "time": 1734874752354.015
+  },
+  "/Users/sinduja/joystick3D/assets/TEMp2.scene.meta": {
+    "time": 1734874797121.5862
+  },
+  "/Users/sinduja/joystick3D/assets/TEMp2.scene": {
+    "time": 1735056075173.3757,
+    "uuid": "db6402f4-291e-4134-9163-e6f3249d74f8",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/BottleChop.ts.meta": {
+    "time": 1734881179791.2612
+  },
+  "/Users/sinduja/joystick3D/assets/script/BottleChop.ts": {
+    "time": 1735047835286.1414,
+    "uuid": "d7e969c8-d3c4-4223-96b5-93c55ef4cc3e",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PfxTexture": {
+    "time": 1734881824303.618,
+    "uuid": "5e86f084-6c06-4024-b4be-7fd36641b3ac",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PfxTexture.meta": {
+    "time": 1734881824302.523
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab/Decision Gate1_left.prefab": {
+    "time": 1734881824259.2522,
+    "uuid": "8452506e-d1a0-4325-b659-6f23f6f3b506",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX/brokenglass.mtl": {
+    "time": 1734881824257.0146,
+    "uuid": "48ce9560-6024-4ba3-916b-bdd180887a02",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PfxTexture/brokenGlass_2x2.png": {
+    "time": 1734881824303.228,
+    "uuid": "0755db80-44af-46c8-8e2b-5e530851fba3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/Prefab/Decision Gate1_left.prefab.meta": {
+    "time": 1734881824259.6638
+  },
+  "/Users/sinduja/joystick3D/assets/art/material/PFX/brokenglass.mtl.meta": {
+    "time": 1734881824258.561
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/PfxTexture/brokenGlass_2x2.png.meta": {
+    "time": 1734881824303.707
+  },
+  "/Users/sinduja/joystick3D/assets/glassShake.anim.meta": {
+    "time": 1734884139050.5793
+  },
+  "/Users/sinduja/joystick3D/assets/glassShake.anim": {
+    "time": 1734961813045.658,
+    "uuid": "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/circle.png.meta": {
+    "time": 1734923607442.327
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/circle.png": {
+    "time": 1734923445859.3286,
+    "uuid": "5b3b522e-bbf5-45b5-bef5-0c18a3301964",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/sw.jpg.meta": {
+    "time": 1734973408292.248
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/sw.jpg": {
+    "time": 1734973400026.8188,
+    "uuid": "b414a881-f03d-406b-8d8a-4f67226c7da9",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/CityMap_RoundedRectangle_2x2.png.meta": {
+    "time": 1734977636208.2783
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/CopCarBlue.png.meta": {
+    "time": 1734977640468.175
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/CopCarRedHead.png.meta": {
+    "time": 1734977644335.4304
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/CopCarBlue.png": {
+    "time": 1709212215000,
+    "uuid": "c9a89b18-3da3-4303-975e-d89708dafc03",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/CopCarRedHead.png": {
+    "time": 1709212215000,
+    "uuid": "1c2c2507-93af-424a-a7f4-26b2aaea1e40",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/CityMap_RoundedRectangle_2x2.png": {
+    "time": 1709212215000,
+    "uuid": "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/rect.png.meta": {
+    "time": 1735011536861.7898
+  },
+  "/Users/sinduja/joystick3D/assets/art/texture/rect.png": {
+    "time": 1732525628000,
+    "uuid": "1558f3fa-b53d-487c-907e-bc97bdf78184",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/LilitaOne-Regular.ttf.meta": {
+    "time": 1735011673598.299
+  },
+  "/Users/sinduja/joystick3D/assets/LilitaOne-Regular.ttf": {
+    "time": 1732525628000,
+    "uuid": "4b1eee3a-5837-417c-8847-980a0003e619",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/tree.png.meta": {
+    "time": 1735013995298.1042
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/tree.png": {
+    "time": 1735013972224.992,
+    "uuid": "11a1b886-a067-41bb-a274-0e1646360215",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/bottle.png.meta": {
+    "time": 1735014065020.6887
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/bottle.png": {
+    "time": 1735013977030.2747,
+    "uuid": "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/barreal.png.meta": {
+    "time": 1735014026775.6968
+  },
+  "/Users/sinduja/joystick3D/assets/Texture/barreal.png": {
+    "time": 1735013979443.5134,
+    "uuid": "d5c55cfc-3863-45bc-805d-cbda88121631",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/script/Counter.ts.meta": {
+    "time": 1735016241045.4712
+  },
+  "/Users/sinduja/joystick3D/assets/script/Counter.ts": {
+    "time": 1735028642041.2783,
+    "uuid": "9a760e50-dedc-4e64-80b8-1a5c70ba89f3",
+    "missing": true
+  },
+  "/Users/sinduja/joystick3D/assets/script/GateChop.ts.meta": {
+    "time": 1735043842641.0789
+  },
+  "/Users/sinduja/joystick3D/assets/script/GateChop.ts": {
+    "time": 1735047847938.9246,
+    "uuid": "c2ad7349-9b87-4fdd-973b-8221139dbb95",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/brokengate.anim.meta": {
+    "time": 1735045888072.591
+  },
+  "/Users/sinduja/joystick3D/assets/brokengate.anim": {
+    "time": 1735046290650.4102,
+    "uuid": "3a538e60-667e-4b66-b22e-22392b6058f9",
+    "missing": false
+  },
+  "/Users/sinduja/joystick3D/assets/godraySpin.anim.meta": {
+    "time": 1735049342803.129
+  },
+  "/Users/sinduja/joystick3D/assets/godraySpin.anim": {
+    "time": 1735049477459.2327,
+    "uuid": "0f4c3a07-2c55-44e6-a16f-c0ffd1223a67",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material": {
+    "time": 1734792300811.9229,
+    "uuid": "f69d158c-0c38-42a8-9937-4c4680bc4024",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Materials": {
+    "time": 1734758690589.677,
+    "uuid": "50fe9e52-cc75-4514-9b6a-cde1eb947a7c",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh": {
+    "time": 1735152911813.0002,
+    "uuid": "9f55e7d9-97d0-4d96-bd47-8a1da158fc1e",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab": {
+    "time": 1735136917947.683,
+    "uuid": "66010ffd-c718-455f-8733-530b35bc79b2",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs": {
+    "time": 1734855825609.2026,
+    "uuid": "99177553-552a-468b-bbb9-4ed4b65c6ad8",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture": {
+    "time": 1735156060001.8977,
+    "uuid": "a2b191c8-1031-4730-91a7-0a518f0e5551",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art": {
+    "time": 1735152544536.7046,
+    "uuid": "634cf92a-ed9e-4503-9682-80c6b85314fa",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/scene": {
+    "time": 1735155051335.282,
+    "uuid": "4dac5043-2dfa-4ede-983b-c3ee38f55635",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script": {
+    "time": 1735158071823.9333,
+    "uuid": "94bf19fd-a69a-410c-a12c-e90d4772575f",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Environment": {
+    "time": 1734635579391.3215,
+    "uuid": "35ae9a4f-bc45-4287-838c-93cf6f000c45",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/BarrelTexture": {
+    "time": 1734923449226.754,
+    "uuid": "3e9fc65e-759c-4969-85a7-d245210251ce",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/PFX": {
+    "time": 1734874444561.9885,
+    "uuid": "66657f99-eff8-4ba0-ac77-1cf3b75f6b96",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab": {
+    "time": 1735150893497.7322,
+    "uuid": "be12919a-35c4-4372-9e26-ccd564e0a3eb",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material": {
+    "time": 1735152577428.492,
+    "uuid": "0fec7dd1-48c1-4a4e-bf4f-aca7f49aeeb1",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh": {
+    "time": 1734855825608.3518,
+    "uuid": "b1257cdd-ecc9-4937-a4e9-c5185db2165a",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture": {
+    "time": 1735136091880.6619,
+    "uuid": "0d0592d2-5b5c-49dd-9958-d6364c7013bb",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Environment/Prefabs": {
+    "time": 1734635579392.731,
+    "uuid": "66718903-4289-4a28-a0bf-f2283b28236e",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab/PFX": {
+    "time": 1734874750306.5828,
+    "uuid": "e504f515-91c2-4564-a734-859b9621429f",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX": {
+    "time": 1735152732277.2502,
+    "uuid": "8f8c3f5f-0614-4616-850f-d80ef8cfcc37",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PFX": {
+    "time": 1734874750308.0986,
+    "uuid": "30ef0d0e-f31f-4a01-b3df-83cd5d6b5f3a",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PfxTexture": {
+    "time": 1734881824303.618,
+    "uuid": "5e86f084-6c06-4024-b4be-7fd36641b3ac",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/BottleChop.ts": {
+    "time": 1735157814202.315,
+    "uuid": "d7e969c8-d3c4-4223-96b5-93c55ef4cc3e",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/GameManager.ts": {
+    "time": 1735158236587.8337,
+    "uuid": "93714afd-a5f5-450d-b020-a7cb741dfac3",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/GateChop.ts": {
+    "time": 1735157591837.4465,
+    "uuid": "c2ad7349-9b87-4fdd-973b-8221139dbb95",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/PlayerChop.ts": {
+    "time": 1735157848895.5977,
+    "uuid": "088d9ca3-2cd7-4728-89e7-e8e9cdf6ffad",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/WeaponManagement.ts": {
+    "time": 1735153158241.2866,
+    "uuid": "f0c68caf-2de5-45a6-ac2a-6cbd5a86de7a",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material.meta": {
+    "time": 1734634637216.191
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Materials.meta": {
+    "time": 1734758690588.053
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh.meta": {
+    "time": 1734634637216.2844
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab.meta": {
+    "time": 1734634637216.3525
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs.meta": {
+    "time": 1734635579390.6775
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture.meta": {
+    "time": 1734634637216.4756
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art.meta": {
+    "time": 1734719511984.9363
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/scene.meta": {
+    "time": 1734634637217.1128
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script.meta": {
+    "time": 1734634637217.3743
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Environment.meta": {
+    "time": 1734635579391.0317
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/BarrelTexture.meta": {
+    "time": 1734716983437.657
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/PFX.meta": {
+    "time": 1734874446316.219
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab.meta": {
+    "time": 1734874752218.5234
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material.meta": {
+    "time": 1734719511985.37
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh.meta": {
+    "time": 1734719511985.6118
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture.meta": {
+    "time": 1734719511985.8394
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Environment/Prefabs.meta": {
+    "time": 1734635579391.385
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab/PFX.meta": {
+    "time": 1734874752219.5981
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX.meta": {
+    "time": 1734874752219.989
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PFX.meta": {
+    "time": 1734874752220.3704
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PfxTexture.meta": {
+    "time": 1734881824302.523
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/BottleChop.ts.meta": {
+    "time": 1734881179791.2612
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/GameManager.ts.meta": {
+    "time": 1734765451647.7275
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/GateChop.ts.meta": {
+    "time": 1735043842641.0786
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/PlayerChop.ts.meta": {
+    "time": 1734785765722.1016
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/WeaponManagement.ts.meta": {
+    "time": 1734765320738.5627
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/ATLAS Material.mtl": {
+    "time": 1734848126917.394,
+    "uuid": "bd26023d-3922-4de0-b42a-01e5581a0f60",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/Floor-002.mtl": {
+    "time": 1734635579385.2725,
+    "uuid": "a9102c8b-e562-49b7-8649-18e242cbc8dd",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/Floor.mtl": {
+    "time": 1734773184182.1633,
+    "uuid": "ed83d6c5-73d7-4144-88e6-b9aa01fb029b",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/barrel.mtl": {
+    "time": 1734717019288.609,
+    "uuid": "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/cactus.mtl": {
+    "time": 1734758413382.0188,
+    "uuid": "5df68e70-d7da-46b9-8d6e-983cea3c3f17",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/grass.mtl": {
+    "time": 1734763560292.8457,
+    "uuid": "9ac51807-0709-4904-910d-3a1e69a27206",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/material.mtl": {
+    "time": 1734633744993.338,
+    "uuid": "369f92d8-6f79-4edd-958c-e2644887dc1d",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/tree.pmtl": {
+    "time": 1735109385438.7192,
+    "uuid": "9910458f-58eb-4254-a201-f606151e6575",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Materials/Glass.mtl": {
+    "time": 1735042718965.6296,
+    "uuid": "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Barrel2.fbx": {
+    "time": 1734715969113.3865,
+    "uuid": "1e6a4368-f8e4-47ce-bce4-7f3e163563a9",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Barrell.fbx": {
+    "time": 1734635579385.9922,
+    "uuid": "44999bab-a29e-49c3-ad80-a29e8f6ec8a1",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Boundery.fbx": {
+    "time": 1734635579386.8694,
+    "uuid": "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/IdBr_character.fbx": {
+    "time": 1734632225322.3457,
+    "uuid": "337401e8-20b1-460d-abc0-a6ed746a08ff",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Iron Ore.fbx": {
+    "time": 1734635579387.7646,
+    "uuid": "8f96e84d-521d-42ba-b4aa-b0f707cabdfc",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Raw Ore Box.fbx": {
+    "time": 1734635579388.4343,
+    "uuid": "419a16d9-64f2-404c-8bed-d5e8e650186a",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Standard Sword.fbx": {
+    "time": 1734694686687.4434,
+    "uuid": "3a6becdf-afaf-435a-b9d3-763041b5c882",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Table.fbx": {
+    "time": 1734635579389.1575,
+    "uuid": "03860489-75fe-43c8-bcd4-ba7434225bed",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Tree1.fbx": {
+    "time": 1734635579389.9695,
+    "uuid": "6a14806c-5187-414a-9742-8805cfd2d8ea",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/bottle1.fbx": {
+    "time": 1734756268591.1335,
+    "uuid": "d97ba9c0-3897-4380-aa6f-4f0a36458ada",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/can.fbx": {
+    "time": 1734756282436.9175,
+    "uuid": "1fae3d22-984d-4cc8-b4dc-9fdba47881a3",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/Glass.prefab": {
+    "time": 1734758690590.215,
+    "uuid": "d41c20cf-c1ae-490d-8397-6858fd02016b",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/IdBr_character.prefab": {
+    "time": 1734839122603.8652,
+    "uuid": "2755bac0-8351-43b8-abaa-4c4af5ea88bb",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/Tree1.prefab": {
+    "time": 1735136743681.8699,
+    "uuid": "ced56065-b4ec-4baa-97f4-c18ad285d983",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/joystick.prefab": {
+    "time": 1734634641249.872,
+    "uuid": "e88b7e6c-09fe-4bda-aeff-937ca39d0fc1",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/line.prefab": {
+    "time": 1734626362975.9646,
+    "uuid": "0ad50083-a658-4f23-8d79-69060a5e2510",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Anvil_Customer Character.prefab": {
+    "time": 1734719512112.349,
+    "uuid": "be503da1-85ea-4d68-bdd0-9f83b0ba8545",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Mainplayer.prefab": {
+    "time": 1734803478502.6323,
+    "uuid": "3786fa91-5f81-4597-a160-a2feef236523",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Poof.prefab": {
+    "time": 1734855825608.9604,
+    "uuid": "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/Floor Tile.jpg": {
+    "time": 1734773056397.1375,
+    "uuid": "976a46b7-008b-4ce1-a6cd-e713c66ea0fc",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/Pointer.png": {
+    "time": 1734765183416.5654,
+    "uuid": "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/T_Char.png": {
+    "time": 1734632225321.5432,
+    "uuid": "c7224d63-a603-4575-9e5d-88e1eb744582",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/barreal.png": {
+    "time": 1735013979443.5134,
+    "uuid": "d5c55cfc-3863-45bc-805d-cbda88121631",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/bottle.png": {
+    "time": 1735013977030.2744,
+    "uuid": "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/colormap.png": {
+    "time": 1734635579393.1191,
+    "uuid": "7f212e46-20a0-4148-8767-16be72be75df",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/fightMove02.png": {
+    "time": 1734626362962.652,
+    "uuid": "d945ed29-80ec-4d3f-93c0-7f016f7b29b6",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/godray.png": {
+    "time": 1734766637377.0142,
+    "uuid": "2f605507-e4dd-4455-800e-55ddafb1c9fa",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/grass.png": {
+    "time": 1734761432739.6116,
+    "uuid": "f27992a7-1f70-4500-9611-d27162c024d3",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/sword-png-24.png": {
+    "time": 1734767468113.046,
+    "uuid": "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/texture_atlas.jpg": {
+    "time": 1734635579394.976,
+    "uuid": "3da7bd6f-dc65-4726-ad9f-0a7bb653cee6",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/tree.png": {
+    "time": 1735013972224.9917,
+    "uuid": "11a1b886-a067-41bb-a274-0e1646360215",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/BarrelTexture/Red_barrel.png": {
+    "time": 1721907358000,
+    "uuid": "ffe16166-a497-4efa-a6bb-492646542073",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/BarrelTexture/Red_barrel_Normal_map.png": {
+    "time": 1721907358000,
+    "uuid": "2cb48610-90be-46f0-96ff-0e599ae57a83",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/PFX/Dust.plist": {
+    "time": 1734874444561.5713,
+    "uuid": "9a8dd05c-a482-4871-a85d-370ea2028994",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/PFX/Dust.prefab": {
+    "time": 1734874444560.3462,
+    "uuid": "fd88a05c-0d2b-4e51-89f9-8f06ed9ffaed",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab/Decision Gate1_left.prefab": {
+    "time": 1734881824259.2522,
+    "uuid": "8452506e-d1a0-4325-b659-6f23f6f3b506",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/ATLAS Material.mtl": {
+    "time": 1734719510033.0376,
+    "uuid": "4a1a7f14-b759-4c09-a2d8-723048156cda",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/Anvil.fbx": {
+    "time": 1734719510034.3823,
+    "uuid": "52855b41-3e18-49b2-8eb4-9db266e6b10d",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/Blade forge_Char.fbx": {
+    "time": 1734719510039.1658,
+    "uuid": "a08ddfa0-ad14-4d42-b332-efa8e2ec9809",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/Hammer.fbx": {
+    "time": 1734719510040.0686,
+    "uuid": "fdac6ffe-a41b-413f-b472-e71ea259b1e4",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/sphere.fbx": {
+    "time": 1734855825607.9841,
+    "uuid": "ce6f25e1-5ad8-4ea6-a351-79ccb8eec828",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/CityMap_RoundedRectangle_2x2.png": {
+    "time": 1709212215000,
+    "uuid": "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/CopCarBlue.png": {
+    "time": 1709212215000,
+    "uuid": "c9a89b18-3da3-4303-975e-d89708dafc03",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/CopCarRedHead.png": {
+    "time": 1709212215000,
+    "uuid": "1c2c2507-93af-424a-a7f4-26b2aaea1e40",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/rect.png": {
+    "time": 1732525628000,
+    "uuid": "1558f3fa-b53d-487c-907e-bc97bdf78184",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/texture_atlas.jpg": {
+    "time": 1734719510041.0698,
+    "uuid": "9d92737d-bf07-4db5-9bef-cbd2655a4c64",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Environment/Prefabs/Environments-NEW.prefab": {
+    "time": 1735151450040.7668,
+    "uuid": "5f4d4337-8466-4175-9b71-a5d74f65ca58",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab/PFX/Explosion.prefab": {
+    "time": 1734874752344.7224,
+    "uuid": "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/Explosion.mtl": {
+    "time": 1734874750303.004,
+    "uuid": "620b1881-f51a-475f-988d-9044c3785bc9",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/SmokePuff.mtl": {
+    "time": 1734874750304.0974,
+    "uuid": "3544531c-73a7-44a7-ae2a-d6939f4e9c82",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/brokenglass.mtl": {
+    "time": 1734881824257.0146,
+    "uuid": "48ce9560-6024-4ba3-916b-bdd180887a02",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PFX/Expolsion.png": {
+    "time": 1734874750307.2954,
+    "uuid": "40c61929-b435-46dd-bd45-5ff3f896f451",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PFX/SmokePuff.png": {
+    "time": 1734874750307.8916,
+    "uuid": "664b75c1-cff8-45ff-8e71-1977a4d33dbe",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PfxTexture/brokenGlass_2x2.png": {
+    "time": 1734881824303.228,
+    "uuid": "0755db80-44af-46c8-8e2b-5e530851fba3",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/ATLAS Material.mtl.meta": {
+    "time": 1734635579383.9858
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/Floor-002.mtl.meta": {
+    "time": 1734635579385.6104
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/Floor.mtl.meta": {
+    "time": 1734635579384.8928
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/barrel.mtl.meta": {
+    "time": 1734716816399.2078
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/cactus.mtl.meta": {
+    "time": 1734757885717.4424
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/material.mtl.meta": {
+    "time": 1734634639229.4565
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/grass.mtl.meta": {
+    "time": 1734761409284.0498
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Material/tree.pmtl.meta": {
+    "time": 1734792300813.1123
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Materials/Glass.mtl.meta": {
+    "time": 1734758690589.7554
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Barrell.fbx.meta": {
+    "time": 1734635579386.4194
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Barrel2.fbx.meta": {
+    "time": 1734715969289.447
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/IdBr_character.fbx.meta": {
+    "time": 1735128060783.0735
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Boundery.fbx.meta": {
+    "time": 1734760443514.4707
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Iron Ore.fbx.meta": {
+    "time": 1734760467991.8015
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Raw Ore Box.fbx.meta": {
+    "time": 1734760481548.6992
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Table.fbx.meta": {
+    "time": 1734635579389.6367
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/bottle1.fbx.meta": {
+    "time": 1734756268796.7805
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/Glass.prefab.meta": {
+    "time": 1734758690590.5847
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Tree1.fbx.meta": {
+    "time": 1734635579390.2834
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/Standard Sword.fbx.meta": {
+    "time": 1734761084822.9612
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/IdBr_character.prefab.meta": {
+    "time": 1734839122604.7102
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Mesh/can.fbx.meta": {
+    "time": 1734756282591.6726
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/line.prefab.meta": {
+    "time": 1734634641414.0872
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/Tree1.prefab.meta": {
+    "time": 1734701333594.8325
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/joystick.prefab.meta": {
+    "time": 1734634641409.5564
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Anvil_Customer Character.prefab.meta": {
+    "time": 1734719512114.8179
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Mainplayer.prefab.meta": {
+    "time": 1734803478504.0945
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Poof.prefab.meta": {
+    "time": 1734855825609.2817
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/Floor Tile.jpg.meta": {
+    "time": 1734773171118.3325
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/T_Char.png.meta": {
+    "time": 1734634641675.2605
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/Pointer.png.meta": {
+    "time": 1734765209362.408
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/colormap.png.meta": {
+    "time": 1734635579393.3906
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/barreal.png.meta": {
+    "time": 1735014026775.6968
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/bottle.png.meta": {
+    "time": 1735014065020.689
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/grass.png.meta": {
+    "time": 1734761432746.0625
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/fightMove02.png.meta": {
+    "time": 1734634641720.5798
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/texture_atlas.jpg.meta": {
+    "time": 1734635579395.3816
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/BarrelTexture/Red_barrel.png.meta": {
+    "time": 1734586032212.9487
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/BarrelTexture/Red_barrel_Normal_map.png.meta": {
+    "time": 1734586032212.6143
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/sword-png-24.png.meta": {
+    "time": 1734767491053.0505
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/godray.png.meta": {
+    "time": 1734766650183.8938
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/tree.png.meta": {
+    "time": 1735013995298.1042
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/ATLAS Material.mtl.meta": {
+    "time": 1734719512112.993
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/PFX/Dust.prefab.meta": {
+    "time": 1734874446412.0403
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab/Decision Gate1_left.prefab.meta": {
+    "time": 1734881824259.6638
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/PFX/Dust.plist.meta": {
+    "time": 1734874444562.067
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/sphere.fbx.meta": {
+    "time": 1734855825608.4558
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/Anvil.fbx.meta": {
+    "time": 1734719513130.2253
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/CityMap_RoundedRectangle_2x2.png.meta": {
+    "time": 1734977636208.278
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/CopCarBlue.png.meta": {
+    "time": 1734977640468.175
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/Hammer.fbx.meta": {
+    "time": 1734719513129.9277
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/texture_atlas.jpg.meta": {
+    "time": 1734719512497.8245
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/CopCarRedHead.png.meta": {
+    "time": 1734977644335.4304
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/rect.png.meta": {
+    "time": 1735011536861.7898
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefabs/Environment/Prefabs/Environments-NEW.prefab.meta": {
+    "time": 1734635579392.8308
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefab/PFX/Explosion.prefab.meta": {
+    "time": 1734874752348.7317
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/Explosion.mtl.meta": {
+    "time": 1734874752345.2751
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/brokenglass.mtl.meta": {
+    "time": 1734881824258.5608
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/SmokePuff.mtl.meta": {
+    "time": 1734874752344.4668
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PFX/SmokePuff.png.meta": {
+    "time": 1734874752352.1838
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PFX/Expolsion.png.meta": {
+    "time": 1734874752354.0146
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/PfxTexture/brokenGlass_2x2.png.meta": {
+    "time": 1734881824303.707
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/mesh/Blade forge_Char.fbx.meta": {
+    "time": 1734719513382.4497
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefabs": {
+    "time": 1735136091879.5886,
+    "uuid": "92acc332-10f9-43ed-b6c8-c17d06d077e2",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefabs.meta": {
+    "time": 1735136091878.4133
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefabs/Merging PFX.prefab": {
+    "time": 1735152741561.7751,
+    "uuid": "4b3ed9e3-799f-4a04-a65c-1b54026ed47c",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/cloud_2x2_hardshadow.png": {
+    "time": 1735136091880.3657,
+    "uuid": "45953b01-f32e-41b6-a38e-eb99485a1a0b",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/Prefabs/Merging PFX.prefab.meta": {
+    "time": 1735136091879.735
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/texture/cloud_2x2_hardshadow.png.meta": {
+    "time": 1735136091880.7488
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/blast.prefab.meta": {
+    "time": 1735136917951.6865
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Prefab/blast.prefab": {
+    "time": 1735137293796.1104,
+    "uuid": "4e612f0d-1c6d-428d-acd5-91ce06bf21cb",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/control.png.meta": {
+    "time": 1735144765192.2844
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/control.png": {
+    "time": 1735063101939.5752,
+    "uuid": "be8f5f1f-d3fa-4f45-ad08-a30f725478bf",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/hand.png.meta": {
+    "time": 1735145177247.4788
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/hand.png": {
+    "time": 1732525628000,
+    "uuid": "59d5ba01-1d17-4482-98fe-db478da8bb06",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Utilities.meta": {
+    "time": 1735151742243.2302
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Utilities/clientEvent.ts.meta": {
+    "time": 1734626362954.9797
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Utilities/constant.ts.meta": {
+    "time": 1734626362954.3982
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Utilities": {
+    "time": 1734626362955.4138,
+    "uuid": "b767fd9a-cd03-4014-89e8-9a4b2a520ac2",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Utilities/clientEvent.ts": {
+    "time": 1735151628942.5957,
+    "uuid": "e3e72cf2-e95e-45bb-95c9-8857b7ffab30",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Utilities/constant.ts": {
+    "time": 1735147919061.3372,
+    "uuid": "cc670f76-49c7-47d1-a887-7820f43b7b95",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement.meta": {
+    "time": 1734634637219.3916
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement": {
+    "time": 1735152222358.0981,
+    "uuid": "91d79f22-b3c8-44ff-959d-7314947f82f3",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement/CameraController.ts.meta": {
+    "time": 1735151742244.2566
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement/CameraController.ts": {
+    "time": 1735157738909.1045,
+    "uuid": "53e34203-83fc-4b10-8e80-41ac70a3e1ef",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement/PlayerController.ts.meta": {
+    "time": 1735151742244.4192
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement/PlayerController.ts": {
+    "time": 1735157924716.1882,
+    "uuid": "4c69e017-5015-49c8-bc3e-b3deafe55b65",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement/joystick.ts.meta": {
+    "time": 1734626362945.2751
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/Movement/joystick.ts": {
+    "time": 1735157831350.8506,
+    "uuid": "340453c6-090f-4c96-9cbc-77ea38500508",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/BarrelChop.ts.meta": {
+    "time": 1734869490012.5972
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/BarrelChop.ts": {
+    "time": 1735157801188.054,
+    "uuid": "5940ab4e-5947-433d-9726-d5c8cb0506f0",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/Sphere.mtl.meta": {
+    "time": 1734855825607.319
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/Sphere.mtl": {
+    "time": 1734855825606.7888,
+    "uuid": "bc21220b-37f7-4189-b551-47f6b84a9459",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/Merging PFX Mat.mtl.meta": {
+    "time": 1735152732281.5222
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/art/material/PFX/Merging PFX Mat.mtl": {
+    "time": 1735136091825.5051,
+    "uuid": "71726322-133d-4a67-9c07-b3f493fd0bdf",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations.meta": {
+    "time": 1735152814180.465
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations": {
+    "time": 1735152872278.4033,
+    "uuid": "f252d261-f4f2-47d2-80ac-11ab54814ee0",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/barrelcompress.anim.meta": {
+    "time": 1734872840398.0803
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/barrelcompress.anim": {
+    "time": 1734873405712.0913,
+    "uuid": "d468ba04-8873-4701-9f73-80fd450f63eb",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/brokengate.anim.meta": {
+    "time": 1735045888072.591
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/brokengate.anim": {
+    "time": 1735046290650.4102,
+    "uuid": "3a538e60-667e-4b66-b22e-22392b6058f9",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/cursor.anim.meta": {
+    "time": 1735145331362.565
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/cursor.anim": {
+    "time": 1735145436310.6953,
+    "uuid": "6350ee40-ca46-44e2-915e-8fc7befc47ac",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/endcard.anim.meta": {
+    "time": 1735146690197.5513
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/endcard.anim": {
+    "time": 1735146978359.295,
+    "uuid": "3ec13dc2-c7b8-43ce-a6c4-2648f1b6506d",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/glassShake.anim.meta": {
+    "time": 1734884139050.579
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/glassShake.anim": {
+    "time": 1734961813045.658,
+    "uuid": "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/godray.anim.meta": {
+    "time": 1734768051157.8547
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/godray.anim": {
+    "time": 1734768339805.611,
+    "uuid": "e38d3411-ab81-45bd-a073-cd99759f385d",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/godraySpin.anim.meta": {
+    "time": 1735049342803.129
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/godraySpin.anim": {
+    "time": 1735049477459.233,
+    "uuid": "0f4c3a07-2c55-44e6-a16f-c0ffd1223a67",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/pointerwobble.anim.meta": {
+    "time": 1734767841538.1477
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/pointerwobble.anim": {
+    "time": 1734768387388.416,
+    "uuid": "9e66c132-fbe3-42f5-b1cf-9c2fd1f5e94a",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/swing.anim.meta": {
+    "time": 1734839963500.591
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/swing.anim": {
+    "time": 1734839963497.0706,
+    "uuid": "6bf59149-acd2-4f38-876a-76b98351c044",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/treewobble.anim.meta": {
+    "time": 1734849964450.4917
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Animations/treewobble.anim": {
+    "time": 1734851330609.3474,
+    "uuid": "257148e6-a550-4795-8972-84a12ccece04",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/scene/MainScene.scene.meta": {
+    "time": 1735152931619.2224
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/scene/MainScene.scene": {
+    "time": 1735158241460.3137,
+    "uuid": "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/Pi7_circle.png.meta": {
+    "time": 1735155736637.0251
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/Texture/Pi7_circle.png": {
+    "time": 1735155729269.9482,
+    "uuid": "926b6017-2f09-488d-8bf9-dcb1132d85af",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/AudioManager.ts.meta": {
+    "time": 1735156581072.9106
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/AudioManager.ts": {
+    "time": 1735157901114.0652,
+    "uuid": "82ef8bd7-a8a7-4aa0-b08e-294134af6b26",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources.meta": {
+    "time": 1735156992654.0396
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources": {
+    "time": 1735157321439.4343,
+    "uuid": "24c14c78-e5c8-4639-bfa2-3c10c5578ea2",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/LilitaOne-Regular.ttf.meta": {
+    "time": 1735011673598.299
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/LilitaOne-Regular.ttf": {
+    "time": 1732525628000,
+    "uuid": "4b1eee3a-5837-417c-8847-980a0003e619",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio.meta": {
+    "time": 1735156289494.4246
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio/barrealAudio.mp3.meta": {
+    "time": 1735156398365.1604
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio/bottleAudio.mp3.meta": {
+    "time": 1735156398365.7297
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio/woodAudio.mp3.meta": {
+    "time": 1735156398365.3975
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio": {
+    "time": 1735156398359.647,
+    "uuid": "193bd855-084a-4e01-9084-5ddecfdad771",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio/barrealAudio.mp3": {
+    "time": 1735156188822.228,
+    "uuid": "9fde05d5-9c86-4dda-8fde-f48f96c0241f",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio/woodAudio.mp3": {
+    "time": 1735156186024.916,
+    "uuid": "6c53536a-9b3e-4956-b09c-112588b11994",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/resources/audio/bottleAudio.mp3": {
+    "time": 1735156228120.5862,
+    "uuid": "66ee7c47-1917-4e65-9166-941b9a97e471",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/super_html.meta": {
+    "time": 1735158071829.473
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/super_html/super_html_playable.ts.meta": {
+    "time": 1735158071831.483
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/super_html": {
+    "time": 1721907358000,
+    "uuid": "88278f13-a108-488a-ab1f-a6cb12f41dfc",
+    "missing": false
+  },
+  "/Users/sinduja/Desktop/IDLEBREAKER/assets/script/super_html/super_html_playable.ts": {
+    "time": 1721907358000,
+    "uuid": "25206aab-a7ab-4714-8e90-edc560d92ea6",
+    "missing": false
+  }
+}

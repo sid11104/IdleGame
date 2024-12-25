@@ -1,0 +1,21 @@
+{
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "project://build",
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "scenes": [
+      {
+        "url": "db://assets/scene/MainScene.scene",
+        "uuid": "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+        "inBundle": false
+      }
+    ],
+    "startScene": "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+    "name": "Estoty-Test",
+    "replaceSplashScreen": true
+  }
+}

@@ -1,0 +1,2703 @@
+{
+  "2747965b-aaf5-4350-94ba-c53b0270e520": {
+    "url": "db://assets/prefab",
+    "value": {}
+  },
+  "4101cf88-5c3e-44b7-846d-bcc23a667105": {
+    "url": "db://assets/res",
+    "value": {}
+  },
+  "4dac5043-2dfa-4ede-983b-c3ee38f55635": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "94bf19fd-a69a-410c-a12c-e90d4772575f": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "31834a71-a24c-4ae9-abd9-5a1f18604526": {
+    "url": "db://assets/prefab/joysticarchery",
+    "value": {}
+  },
+  "1eb241d1-13da-4f68-9aba-0ab81aa556e2": {
+    "url": "db://assets/res/blood",
+    "value": {}
+  },
+  "3d30a472-9063-4257-8b59-6aa82a269d95": {
+    "url": "db://assets/res/fbxTexture2D",
+    "value": {}
+  },
+  "2172c97b-7d9e-4777-8a4f-fc1691bcdcef": {
+    "url": "db://assets/res/joystick",
+    "value": {}
+  },
+  "20a94eba-8d09-4e88-92bf-f62bc0f69797": {
+    "url": "db://assets/res/material",
+    "value": {}
+  },
+  "7908ce93-79e7-43d9-9cb3-4b97802fe11b": {
+    "url": "db://assets/script/framwork",
+    "value": {}
+  },
+  "141dd477-a795-4b59-9be3-c23020cf9fa6": {
+    "url": "db://assets/script/infinitymap",
+    "value": {}
+  },
+  "91d79f22-b3c8-44ff-959d-7314947f82f3": {
+    "url": "db://assets/script/Movement",
+    "value": {}
+  },
+  "e3e72cf2-e95e-45bb-95c9-8857b7ffab30": {
+    "url": "db://assets/script/Utilities/clientEvent.ts",
+    "value": {}
+  },
+  "cc670f76-49c7-47d1-a887-7820f43b7b95": {
+    "url": "db://assets/script/Utilities/constant.ts",
+    "value": {}
+  },
+  "df910621-4489-47ff-8d9b-1480965ff908": {
+    "url": "db://assets/script/infinitymap/poolManager.ts",
+    "value": {}
+  },
+  "be25fc93-ccc2-4171-bfd1-296abf271ce9": {
+    "url": "db://assets/script/joystickarchery/archery.ts",
+    "value": {}
+  },
+  "c7905950-26cc-498b-bb08-f31d2cbd371d": {
+    "url": "db://assets/script/joystickarchery/archeryCamera.ts",
+    "value": {}
+  },
+  "81aebd5a-53fa-405c-a99e-5eb53e7d123e": {
+    "url": "db://assets/script/Movement/bloadBar.ts",
+    "value": {}
+  },
+  "340453c6-090f-4c96-9cbc-77ea38500508": {
+    "url": "db://assets/script/Movement/joystick.ts",
+    "value": {}
+  },
+  "8749de86-069a-4013-8535-ed82bde68519": {
+    "url": "db://assets/prefab/bloadBar.prefab",
+    "value": {}
+  },
+  "e88b7e6c-09fe-4bda-aeff-937ca39d0fc1": {
+    "url": "db://assets/Prefab/joystick.prefab",
+    "value": {
+      "depends": [
+        "d945ed29-80ec-4d3f-93c0-7f016f7b29b6@f9941",
+        "9d24beec-7f21-498f-9855-4dd1a9071aaf@f9941"
+      ]
+    }
+  },
+  "9937e160-e0a5-4f40-a065-ff520ed961cf": {
+    "url": "db://assets/scene/scene.scene",
+    "value": {}
+  },
+  "0ad50083-a658-4f23-8d79-69060a5e2510": {
+    "url": "db://assets/Prefab/line.prefab",
+    "value": {
+      "depends": [
+        "f2338dd2-06c1-4e06-b313-e7b1075f0925@f9941"
+      ]
+    }
+  },
+  "7b89add9-df42-42a5-8b54-ddeb2becd406": {
+    "url": "db://assets/res/blood/fightBlood01.png",
+    "value": {}
+  },
+  "1a04a3e5-ca0c-4d15-add0-7507ac05f219": {
+    "url": "db://assets/res/blood/fightBlood03.png",
+    "value": {}
+  },
+  "65d4f8db-5d4a-4409-8d92-2656daeec15b": {
+    "url": "db://assets/res/blood/fightBlood04.png",
+    "value": {}
+  },
+  "f2338dd2-06c1-4e06-b313-e7b1075f0925": {
+    "url": "db://assets/res/blood/singleColor.png",
+    "value": {}
+  },
+  "f0c02722-08de-4852-8dbd-92149b6fd895": {
+    "url": "db://assets/res/fbxTexture2D/clown.png",
+    "value": {}
+  },
+  "7b89add9-df42-42a5-8b54-ddeb2becd406@6c48a": {
+    "url": "db://assets/res/blood/fightBlood01.png@6c48a",
+    "value": {
+      "depends": [
+        "7b89add9-df42-42a5-8b54-ddeb2becd406"
+      ]
+    }
+  },
+  "65d4f8db-5d4a-4409-8d92-2656daeec15b@6c48a": {
+    "url": "db://assets/res/blood/fightBlood04.png@6c48a",
+    "value": {
+      "depends": [
+        "65d4f8db-5d4a-4409-8d92-2656daeec15b"
+      ]
+    }
+  },
+  "1a04a3e5-ca0c-4d15-add0-7507ac05f219@6c48a": {
+    "url": "db://assets/res/blood/fightBlood03.png@6c48a",
+    "value": {
+      "depends": [
+        "1a04a3e5-ca0c-4d15-add0-7507ac05f219"
+      ]
+    }
+  },
+  "7b89add9-df42-42a5-8b54-ddeb2becd406@f9941": {
+    "url": "db://assets/res/blood/fightBlood01.png@f9941",
+    "value": {
+      "depends": [
+        "7b89add9-df42-42a5-8b54-ddeb2becd406@6c48a"
+      ]
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx",
+    "value": {}
+  },
+  "65d4f8db-5d4a-4409-8d92-2656daeec15b@f9941": {
+    "url": "db://assets/res/blood/fightBlood04.png@f9941",
+    "value": {
+      "depends": [
+        "65d4f8db-5d4a-4409-8d92-2656daeec15b@6c48a"
+      ]
+    }
+  },
+  "9d24beec-7f21-498f-9855-4dd1a9071aaf": {
+    "url": "db://assets/Texture/fightMove01.png",
+    "value": {}
+  },
+  "f2338dd2-06c1-4e06-b313-e7b1075f0925@6c48a": {
+    "url": "db://assets/res/blood/singleColor.png@6c48a",
+    "value": {
+      "depends": [
+        "f2338dd2-06c1-4e06-b313-e7b1075f0925"
+      ]
+    }
+  },
+  "1a04a3e5-ca0c-4d15-add0-7507ac05f219@f9941": {
+    "url": "db://assets/res/blood/fightBlood03.png@f9941",
+    "value": {
+      "depends": [
+        "1a04a3e5-ca0c-4d15-add0-7507ac05f219@6c48a"
+      ]
+    }
+  },
+  "d945ed29-80ec-4d3f-93c0-7f016f7b29b6": {
+    "url": "db://assets/Texture/fightMove02.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f2338dd2-06c1-4e06-b313-e7b1075f0925@f9941": {
+    "url": "db://assets/res/blood/singleColor.png@f9941",
+    "value": {
+      "depends": [
+        "f2338dd2-06c1-4e06-b313-e7b1075f0925@6c48a"
+      ]
+    }
+  },
+  "369f92d8-6f79-4edd-958c-e2644887dc1d": {
+    "url": "db://assets/Material/material.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "c7224d63-a603-4575-9e5d-88e1eb744582@6c48a"
+      ]
+    }
+  },
+  "f0c02722-08de-4852-8dbd-92149b6fd895@6c48a": {
+    "url": "db://assets/res/fbxTexture2D/clown.png@6c48a",
+    "value": {
+      "depends": [
+        "f0c02722-08de-4852-8dbd-92149b6fd895"
+      ]
+    }
+  },
+  "9d24beec-7f21-498f-9855-4dd1a9071aaf@6c48a": {
+    "url": "db://assets/Texture/fightMove01.png@6c48a",
+    "value": {
+      "depends": [
+        "9d24beec-7f21-498f-9855-4dd1a9071aaf"
+      ]
+    }
+  },
+  "d945ed29-80ec-4d3f-93c0-7f016f7b29b6@6c48a": {
+    "url": "db://assets/Texture/fightMove02.png@6c48a",
+    "value": {
+      "depends": [
+        "d945ed29-80ec-4d3f-93c0-7f016f7b29b6"
+      ]
+    }
+  },
+  "9d24beec-7f21-498f-9855-4dd1a9071aaf@f9941": {
+    "url": "db://assets/Texture/fightMove01.png@f9941",
+    "value": {
+      "depends": [
+        "9d24beec-7f21-498f-9855-4dd1a9071aaf@6c48a"
+      ]
+    }
+  },
+  "d945ed29-80ec-4d3f-93c0-7f016f7b29b6@f9941": {
+    "url": "db://assets/Texture/fightMove02.png@f9941",
+    "value": {
+      "depends": [
+        "d945ed29-80ec-4d3f-93c0-7f016f7b29b6@6c48a"
+      ]
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@70033": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@70033",
+    "value": {
+      "depends": [
+        "f0c02722-08de-4852-8dbd-92149b6fd895"
+      ]
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@7e505": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@7e505",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@cf5ee": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@cf5ee",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@1a3f1": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@1a3f1",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@79e35": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@79e35",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@989ed": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@989ed",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@9a9c4": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@9a9c4",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@438fe": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@7219e": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@7219e",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@56a53": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@56a53",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@70033"
+      ]
+    }
+  },
+  "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@37e56": {
+    "url": "db://assets/res/fbxTexture2D/clown_LOD.fbx@37e56",
+    "value": {
+      "depends": [
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@56a53",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@7e505",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@438fe",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@cf5ee",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@1a3f1",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@79e35",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@989ed",
+        "e2b946a9-1fb7-4b4f-a5e9-81322b29d177@9a9c4"
+      ]
+    }
+  },
+  "c7224d63-a603-4575-9e5d-88e1eb744582": {
+    "url": "db://assets/Texture/T_Char.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c7224d63-a603-4575-9e5d-88e1eb744582@6c48a": {
+    "url": "db://assets/Texture/T_Char.png@6c48a",
+    "value": {
+      "depends": [
+        "c7224d63-a603-4575-9e5d-88e1eb744582"
+      ]
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff": {
+    "url": "db://assets/Mesh/IdBr_character.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff@e1cf9": {
+    "url": "db://assets/Mesh/IdBr_character.fbx@e1cf9",
+    "value": {
+      "depends": []
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff@953bc": {
+    "url": "db://assets/Mesh/IdBr_character.fbx@953bc",
+    "value": {
+      "depends": []
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff@5fd65": {
+    "url": "db://assets/Mesh/IdBr_character.fbx@5fd65",
+    "value": {
+      "depends": []
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff@788c3": {
+    "url": "db://assets/Mesh/IdBr_character.fbx@788c3",
+    "value": {
+      "depends": []
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff@438fe": {
+    "url": "db://assets/Mesh/IdBr_character.fbx@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff@0c90c": {
+    "url": "db://assets/Mesh/IdBr_character.fbx@0c90c",
+    "value": {
+      "depends": [
+        "2ec11458-f855-4978-b14d-f3ed5cf697fa",
+        "c7224d63-a603-4575-9e5d-88e1eb744582@6c48a"
+      ]
+    }
+  },
+  "337401e8-20b1-460d-abc0-a6ed746a08ff@880cf": {
+    "url": "db://assets/Mesh/IdBr_character.fbx@880cf",
+    "value": {
+      "depends": [
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@0c90c",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@e1cf9",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@438fe",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@953bc",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@5fd65",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@788c3",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@953bc"
+      ]
+    }
+  },
+  "e844aa39-5d8b-4aa7-b71d-e51f876864a9": {
+    "url": "db://assets/Material",
+    "value": {}
+  },
+  "66010ffd-c718-455f-8733-530b35bc79b2": {
+    "url": "db://assets/Prefab",
+    "value": {}
+  },
+  "a7d24ae8-d9bd-4708-9ae1-dbcdb373f49b": {
+    "url": "db://assets/Texture",
+    "value": {}
+  },
+  "6f56cc6a-88d4-44b3-a1b7-a0bec2985af9": {
+    "url": "db://assets/Mesh",
+    "value": {}
+  },
+  "f69d158c-0c38-42a8-9937-4c4680bc4024": {
+    "url": "db://assets/Material",
+    "value": {}
+  },
+  "9f55e7d9-97d0-4d96-bd47-8a1da158fc1e": {
+    "url": "db://assets/Mesh",
+    "value": {}
+  },
+  "99177553-552a-468b-bbb9-4ed4b65c6ad8": {
+    "url": "db://assets/Prefabs",
+    "value": {}
+  },
+  "a2b191c8-1031-4730-91a7-0a518f0e5551": {
+    "url": "db://assets/Texture",
+    "value": {}
+  },
+  "35ae9a4f-bc45-4287-838c-93cf6f000c45": {
+    "url": "db://assets/Prefabs/Environment",
+    "value": {}
+  },
+  "66718903-4289-4a28-a0bf-f2283b28236e": {
+    "url": "db://assets/Prefabs/Environment/Prefabs",
+    "value": {}
+  },
+  "bd26023d-3922-4de0-b42a-01e5581a0f60": {
+    "url": "db://assets/Material/ATLAS Material.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "3da7bd6f-dc65-4726-ad9f-0a7bb653cee6@6c48a"
+      ]
+    }
+  },
+  "a9102c8b-e562-49b7-8649-18e242cbc8dd": {
+    "url": "db://assets/Material/Floor-002.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "7f212e46-20a0-4148-8767-16be72be75df@6c48a"
+      ]
+    }
+  },
+  "ed83d6c5-73d7-4144-88e6-b9aa01fb029b": {
+    "url": "db://assets/Material/Floor.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "976a46b7-008b-4ce1-a6cd-e713c66ea0fc@6c48a"
+      ]
+    }
+  },
+  "44999bab-a29e-49c3-ad80-a29e8f6ec8a1": {
+    "url": "db://assets/Mesh/Barrell.fbx",
+    "value": {}
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494": {
+    "url": "db://assets/Mesh/Boundery.fbx",
+    "value": {}
+  },
+  "8f96e84d-521d-42ba-b4aa-b0f707cabdfc": {
+    "url": "db://assets/Mesh/Iron Ore.fbx",
+    "value": {}
+  },
+  "419a16d9-64f2-404c-8bed-d5e8e650186a": {
+    "url": "db://assets/Mesh/Raw Ore Box.fbx",
+    "value": {}
+  },
+  "03860489-75fe-43c8-bcd4-ba7434225bed": {
+    "url": "db://assets/Mesh/Table.fbx",
+    "value": {}
+  },
+  "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@8a6b5": {
+    "url": "db://assets/Mesh/Barrell.fbx@8a6b5",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@2f6d1": {
+    "url": "db://assets/Mesh/Boundery.fbx@2f6d1",
+    "value": {
+      "depends": []
+    }
+  },
+  "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1": {
+    "url": "db://assets/Mesh/Iron Ore.fbx@71cf1",
+    "value": {
+      "depends": []
+    }
+  },
+  "419a16d9-64f2-404c-8bed-d5e8e650186a@45f73": {
+    "url": "db://assets/Mesh/Raw Ore Box.fbx@45f73",
+    "value": {
+      "depends": []
+    }
+  },
+  "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@48b02": {
+    "url": "db://assets/Mesh/Barrell.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@41ac8": {
+    "url": "db://assets/Mesh/Boundery.fbx@41ac8",
+    "value": {
+      "depends": []
+    }
+  },
+  "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@7d6ab": {
+    "url": "db://assets/Mesh/Barrell.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@48b02"
+      ]
+    }
+  },
+  "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@5f71a": {
+    "url": "db://assets/Mesh/Barrell.fbx@5f71a",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@7d6ab"
+      ]
+    }
+  },
+  "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@48b02": {
+    "url": "db://assets/Mesh/Iron Ore.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33": {
+    "url": "db://assets/Mesh/Boundery.fbx@c6e33",
+    "value": {
+      "depends": []
+    }
+  },
+  "419a16d9-64f2-404c-8bed-d5e8e650186a@48b02": {
+    "url": "db://assets/Mesh/Raw Ore Box.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb": {
+    "url": "db://assets/Mesh/Barrell.fbx@113fb",
+    "value": {
+      "depends": [
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@5f71a",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@8a6b5"
+      ]
+    }
+  },
+  "6a14806c-5187-414a-9742-8805cfd2d8ea": {
+    "url": "db://assets/Mesh/Tree1.fbx",
+    "value": {}
+  },
+  "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@7d6ab": {
+    "url": "db://assets/Mesh/Iron Ore.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@48b02"
+      ]
+    }
+  },
+  "419a16d9-64f2-404c-8bed-d5e8e650186a@7d6ab": {
+    "url": "db://assets/Mesh/Raw Ore Box.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "419a16d9-64f2-404c-8bed-d5e8e650186a@48b02"
+      ]
+    }
+  },
+  "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5": {
+    "url": "db://assets/Mesh/Iron Ore.fbx@aa5a5",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9d92737d-bf07-4db5-9bef-cbd2655a4c64@6c48a"
+      ]
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51": {
+    "url": "db://assets/Mesh/Boundery.fbx@97b51",
+    "value": {
+      "depends": []
+    }
+  },
+  "419a16d9-64f2-404c-8bed-d5e8e650186a@aa5a5": {
+    "url": "db://assets/Mesh/Raw Ore Box.fbx@aa5a5",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9d92737d-bf07-4db5-9bef-cbd2655a4c64@6c48a"
+      ]
+    }
+  },
+  "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@edeb7": {
+    "url": "db://assets/Mesh/Iron Ore.fbx@edeb7",
+    "value": {
+      "depends": [
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1"
+      ]
+    }
+  },
+  "3c5d2806-a0ac-44cc-94b1-463fd96c9624": {
+    "url": "db://assets/Texture/Floor Tile.jpg",
+    "value": {}
+  },
+  "419a16d9-64f2-404c-8bed-d5e8e650186a@f96fa": {
+    "url": "db://assets/Mesh/Raw Ore Box.fbx@f96fa",
+    "value": {
+      "depends": [
+        "419a16d9-64f2-404c-8bed-d5e8e650186a@aa5a5",
+        "419a16d9-64f2-404c-8bed-d5e8e650186a@45f73"
+      ]
+    }
+  },
+  "7f212e46-20a0-4148-8767-16be72be75df": {
+    "url": "db://assets/Texture/colormap.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2": {
+    "url": "db://assets/Mesh/Boundery.fbx@fd4a2",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@32a51": {
+    "url": "db://assets/Mesh/Boundery.fbx@32a51",
+    "value": {
+      "depends": []
+    }
+  },
+  "7f212e46-20a0-4148-8767-16be72be75df@6c48a": {
+    "url": "db://assets/Texture/colormap.png@6c48a",
+    "value": {
+      "depends": [
+        "7f212e46-20a0-4148-8767-16be72be75df"
+      ]
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@b45a1": {
+    "url": "db://assets/Mesh/Boundery.fbx@b45a1",
+    "value": {
+      "depends": []
+    }
+  },
+  "3da7bd6f-dc65-4726-ad9f-0a7bb653cee6": {
+    "url": "db://assets/Texture/texture_atlas.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "3c5d2806-a0ac-44cc-94b1-463fd96c9624@6c48a": {
+    "url": "db://assets/Texture/Floor Tile.jpg@6c48a",
+    "value": {
+      "depends": [
+        "3c5d2806-a0ac-44cc-94b1-463fd96c9624"
+      ]
+    }
+  },
+  "5f4d4337-8466-4175-9b71-a5d74f65ca58": {
+    "url": "db://assets/Prefabs/Environment/Prefabs/Environments-NEW.prefab",
+    "value": {
+      "depends": [
+        "ed83d6c5-73d7-4144-88e6-b9aa01fb029b",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "a9102c8b-e562-49b7-8649-18e242cbc8dd",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@ece78",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@32a51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@32a51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@41ac8",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@2f6d1",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@32a51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@2f6d1",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@41ac8",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@2f6d1",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@2f6d1",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@2f6d1",
+        "03860489-75fe-43c8-bcd4-ba7434225bed@0c3a0",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "419a16d9-64f2-404c-8bed-d5e8e650186a@f96fa",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@edeb7",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@aa5a5",
+        "8f96e84d-521d-42ba-b4aa-b0f707cabdfc@71cf1",
+        "03860489-75fe-43c8-bcd4-ba7434225bed@0c3a0",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb",
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb",
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@8a6b5",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb",
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb",
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb",
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb",
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "ed83d6c5-73d7-4144-88e6-b9aa01fb029b",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "a9102c8b-e562-49b7-8649-18e242cbc8dd",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "ed83d6c5-73d7-4144-88e6-b9aa01fb029b",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "a9102c8b-e562-49b7-8649-18e242cbc8dd",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "ed83d6c5-73d7-4144-88e6-b9aa01fb029b",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "a9102c8b-e562-49b7-8649-18e242cbc8dd",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "44999bab-a29e-49c3-ad80-a29e8f6ec8a1@113fb",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda"
+      ]
+    }
+  },
+  "03860489-75fe-43c8-bcd4-ba7434225bed@c172e": {
+    "url": "db://assets/Mesh/Table.fbx@c172e",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@48b02": {
+    "url": "db://assets/Mesh/Boundery.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@7d6ab": {
+    "url": "db://assets/Mesh/Boundery.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@48b02"
+      ]
+    }
+  },
+  "03860489-75fe-43c8-bcd4-ba7434225bed@48b02": {
+    "url": "db://assets/Mesh/Table.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5": {
+    "url": "db://assets/Mesh/Boundery.fbx@aa5a5",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9d92737d-bf07-4db5-9bef-cbd2655a4c64@6c48a"
+      ]
+    }
+  },
+  "3da7bd6f-dc65-4726-ad9f-0a7bb653cee6@6c48a": {
+    "url": "db://assets/Texture/texture_atlas.jpg@6c48a",
+    "value": {
+      "depends": [
+        "3da7bd6f-dc65-4726-ad9f-0a7bb653cee6"
+      ]
+    }
+  },
+  "03860489-75fe-43c8-bcd4-ba7434225bed@7d6ab": {
+    "url": "db://assets/Mesh/Table.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "03860489-75fe-43c8-bcd4-ba7434225bed@48b02"
+      ]
+    }
+  },
+  "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@ece78": {
+    "url": "db://assets/Mesh/Boundery.fbx@ece78",
+    "value": {
+      "depends": [
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@2f6d1",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@41ac8",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@c6e33",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@97b51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@fd4a2",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@32a51",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@aa5a5",
+        "6a1c0428-bc7a-4acd-9b9e-f7d9f827b494@b45a1"
+      ]
+    }
+  },
+  "03860489-75fe-43c8-bcd4-ba7434225bed@aa5a5": {
+    "url": "db://assets/Mesh/Table.fbx@aa5a5",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "03860489-75fe-43c8-bcd4-ba7434225bed@7d6ab"
+      ]
+    }
+  },
+  "03860489-75fe-43c8-bcd4-ba7434225bed@0c3a0": {
+    "url": "db://assets/Mesh/Table.fbx@0c3a0",
+    "value": {
+      "depends": [
+        "03860489-75fe-43c8-bcd4-ba7434225bed@aa5a5",
+        "03860489-75fe-43c8-bcd4-ba7434225bed@c172e"
+      ]
+    }
+  },
+  "6a14806c-5187-414a-9742-8805cfd2d8ea@9c123": {
+    "url": "db://assets/Mesh/Tree1.fbx@9c123",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a14806c-5187-414a-9742-8805cfd2d8ea@48b02": {
+    "url": "db://assets/Mesh/Tree1.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a14806c-5187-414a-9742-8805cfd2d8ea@7d6ab": {
+    "url": "db://assets/Mesh/Tree1.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "6a14806c-5187-414a-9742-8805cfd2d8ea@48b02"
+      ]
+    }
+  },
+  "6a14806c-5187-414a-9742-8805cfd2d8ea@5f71a": {
+    "url": "db://assets/Mesh/Tree1.fbx@5f71a",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "6a14806c-5187-414a-9742-8805cfd2d8ea@7d6ab"
+      ]
+    }
+  },
+  "6a14806c-5187-414a-9742-8805cfd2d8ea@373fb": {
+    "url": "db://assets/Mesh/Tree1.fbx@373fb",
+    "value": {
+      "depends": [
+        "6a14806c-5187-414a-9742-8805cfd2d8ea@5f71a",
+        "6a14806c-5187-414a-9742-8805cfd2d8ea@9c123"
+      ]
+    }
+  },
+  "bd9bf3e3-465c-4c2a-8215-ea4cb26a92de": {
+    "url": "db://assets/Animations/playercontroller.animgraph",
+    "value": {}
+  },
+  "3a6becdf-afaf-435a-b9d3-763041b5c882": {
+    "url": "db://assets/Mesh/Standard Sword.fbx",
+    "value": {}
+  },
+  "3a6becdf-afaf-435a-b9d3-763041b5c882@9c123": {
+    "url": "db://assets/Mesh/Standard Sword.fbx@9c123",
+    "value": {
+      "depends": []
+    }
+  },
+  "3a6becdf-afaf-435a-b9d3-763041b5c882@48b02": {
+    "url": "db://assets/Mesh/Standard Sword.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "3a6becdf-afaf-435a-b9d3-763041b5c882@7d6ab": {
+    "url": "db://assets/Mesh/Standard Sword.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@48b02"
+      ]
+    }
+  },
+  "3a6becdf-afaf-435a-b9d3-763041b5c882@5f71a": {
+    "url": "db://assets/Mesh/Standard Sword.fbx@5f71a",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9d92737d-bf07-4db5-9bef-cbd2655a4c64@6c48a"
+      ]
+    }
+  },
+  "3a6becdf-afaf-435a-b9d3-763041b5c882@37d9d": {
+    "url": "db://assets/Mesh/Standard Sword.fbx@37d9d",
+    "value": {
+      "depends": [
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@5f71a",
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@9c123"
+      ]
+    }
+  },
+  "ced56065-b4ec-4baa-97f4-c18ad285d983": {
+    "url": "db://assets/Prefab/Tree1.prefab",
+    "value": {
+      "depends": [
+        "bd26023d-3922-4de0-b42a-01e5581a0f60",
+        "6a14806c-5187-414a-9742-8805cfd2d8ea@9c123",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "5b3b522e-bbf5-45b5-bef5-0c18a3301964@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "4b3ed9e3-799f-4a04-a65c-1b54026ed47c",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "257148e6-a550-4795-8972-84a12ccece04",
+        "257148e6-a550-4795-8972-84a12ccece04"
+      ]
+    }
+  },
+  "1e6a4368-f8e4-47ce-bce4-7f3e163563a9": {
+    "url": "db://assets/Mesh/Barrel2.fbx",
+    "value": {}
+  },
+  "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6": {
+    "url": "db://assets/Mesh/Barrel2.fbx@ed8b6",
+    "value": {
+      "depends": []
+    }
+  },
+  "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@8d883": {
+    "url": "db://assets/Mesh/Barrel2.fbx@8d883",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@3b8a8": {
+    "url": "db://assets/Mesh/Barrel2.fbx@3b8a8",
+    "value": {
+      "depends": [
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@8d883",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6"
+      ]
+    }
+  },
+  "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783": {
+    "url": "db://assets/Material/barrel.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ffe16166-a497-4efa-a6bb-492646542073@6c48a",
+        "2cb48610-90be-46f0-96ff-0e599ae57a83@6c48a"
+      ]
+    }
+  },
+  "3e9fc65e-759c-4969-85a7-d245210251ce": {
+    "url": "db://assets/Texture/BarrelTexture",
+    "value": {}
+  },
+  "ffe16166-a497-4efa-a6bb-492646542073": {
+    "url": "db://assets/Texture/BarrelTexture/Red_barrel.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cb48610-90be-46f0-96ff-0e599ae57a83": {
+    "url": "db://assets/Texture/BarrelTexture/Red_barrel_Normal_map.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cb48610-90be-46f0-96ff-0e599ae57a83@6c48a": {
+    "url": "db://assets/Texture/BarrelTexture/Red_barrel_Normal_map.png@6c48a",
+    "value": {
+      "depends": [
+        "2cb48610-90be-46f0-96ff-0e599ae57a83"
+      ]
+    }
+  },
+  "ffe16166-a497-4efa-a6bb-492646542073@6c48a": {
+    "url": "db://assets/Texture/BarrelTexture/Red_barrel.png@6c48a",
+    "value": {
+      "depends": [
+        "ffe16166-a497-4efa-a6bb-492646542073"
+      ]
+    }
+  },
+  "634cf92a-ed9e-4503-9682-80c6b85314fa": {
+    "url": "db://assets/art",
+    "value": {}
+  },
+  "0fec7dd1-48c1-4a4e-bf4f-aca7f49aeeb1": {
+    "url": "db://assets/art/material",
+    "value": {}
+  },
+  "b1257cdd-ecc9-4937-a4e9-c5185db2165a": {
+    "url": "db://assets/art/mesh",
+    "value": {}
+  },
+  "0d0592d2-5b5c-49dd-9958-d6364c7013bb": {
+    "url": "db://assets/art/texture",
+    "value": {}
+  },
+  "be503da1-85ea-4d68-bdd0-9f83b0ba8545": {
+    "url": "db://assets/Prefabs/Anvil_Customer Character.prefab",
+    "value": {
+      "depends": [
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@1dcb4",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@30732",
+        "fdac6ffe-a41b-413f-b472-e71ea259b1e4@b3d17",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@84b9c",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@f1394",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@0fc45",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@75ee4",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@850f6",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@a72ab",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@39b7c",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@2224c",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@10dfa",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c6e33",
+        "0f73f30a-4f41-4107-975d-8968fd8ce226",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@87456",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@bbd92",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@faad7",
+        "52855b41-3e18-49b2-8eb4-9db266e6b10d@2e92a",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "fdac6ffe-a41b-413f-b472-e71ea259b1e4@b3d17",
+        "4a1a7f14-b759-4c09-a2d8-723048156cda",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@57146",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@e9c47",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@129be",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@e9c47"
+      ]
+    }
+  },
+  "4a1a7f14-b759-4c09-a2d8-723048156cda": {
+    "url": "db://assets/art/material/ATLAS Material.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "9d92737d-bf07-4db5-9bef-cbd2655a4c64@6c48a"
+      ]
+    }
+  },
+  "52855b41-3e18-49b2-8eb4-9db266e6b10d": {
+    "url": "db://assets/art/mesh/Anvil.fbx",
+    "value": {}
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "fdac6ffe-a41b-413f-b472-e71ea259b1e4": {
+    "url": "db://assets/art/mesh/Hammer.fbx",
+    "value": {}
+  },
+  "9d92737d-bf07-4db5-9bef-cbd2655a4c64": {
+    "url": "db://assets/art/texture/texture_atlas.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d92737d-bf07-4db5-9bef-cbd2655a4c64@6c48a": {
+    "url": "db://assets/art/texture/texture_atlas.jpg@6c48a",
+    "value": {
+      "depends": [
+        "9d92737d-bf07-4db5-9bef-cbd2655a4c64"
+      ]
+    }
+  },
+  "fdac6ffe-a41b-413f-b472-e71ea259b1e4@b7142": {
+    "url": "db://assets/art/mesh/Hammer.fbx@b7142",
+    "value": {
+      "depends": []
+    }
+  },
+  "52855b41-3e18-49b2-8eb4-9db266e6b10d@80c75": {
+    "url": "db://assets/art/mesh/Anvil.fbx@80c75",
+    "value": {
+      "depends": []
+    }
+  },
+  "fdac6ffe-a41b-413f-b472-e71ea259b1e4@48b02": {
+    "url": "db://assets/art/mesh/Hammer.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "52855b41-3e18-49b2-8eb4-9db266e6b10d@48b02": {
+    "url": "db://assets/art/mesh/Anvil.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "fdac6ffe-a41b-413f-b472-e71ea259b1e4@7d6ab": {
+    "url": "db://assets/art/mesh/Hammer.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "fdac6ffe-a41b-413f-b472-e71ea259b1e4@48b02"
+      ]
+    }
+  },
+  "52855b41-3e18-49b2-8eb4-9db266e6b10d@7d6ab": {
+    "url": "db://assets/art/mesh/Anvil.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "52855b41-3e18-49b2-8eb4-9db266e6b10d@48b02"
+      ]
+    }
+  },
+  "fdac6ffe-a41b-413f-b472-e71ea259b1e4@5f71a": {
+    "url": "db://assets/art/mesh/Hammer.fbx@5f71a",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "fdac6ffe-a41b-413f-b472-e71ea259b1e4@7d6ab"
+      ]
+    }
+  },
+  "52855b41-3e18-49b2-8eb4-9db266e6b10d@5f71a": {
+    "url": "db://assets/art/mesh/Anvil.fbx@5f71a",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "52855b41-3e18-49b2-8eb4-9db266e6b10d@7d6ab"
+      ]
+    }
+  },
+  "fdac6ffe-a41b-413f-b472-e71ea259b1e4@b3d17": {
+    "url": "db://assets/art/mesh/Hammer.fbx@b3d17",
+    "value": {
+      "depends": [
+        "fdac6ffe-a41b-413f-b472-e71ea259b1e4@5f71a",
+        "fdac6ffe-a41b-413f-b472-e71ea259b1e4@b7142"
+      ]
+    }
+  },
+  "52855b41-3e18-49b2-8eb4-9db266e6b10d@2e92a": {
+    "url": "db://assets/art/mesh/Anvil.fbx@2e92a",
+    "value": {
+      "depends": [
+        "52855b41-3e18-49b2-8eb4-9db266e6b10d@5f71a",
+        "52855b41-3e18-49b2-8eb4-9db266e6b10d@80c75"
+      ]
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@30732": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@57146": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@57146",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@87456": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@87456",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@1dcb4": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@1dcb4",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@10dfa": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@10dfa",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@bbd92": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@bbd92",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@faad7": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@faad7",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c6e33": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@c6e33",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@84b9c": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@84b9c",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@0fc45": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@0fc45",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@850f6": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@850f6",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@39b7c": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@39b7c",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@129be": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@129be",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@e9c47": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@e9c47",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c0bf2": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@c0bf2",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@f1394": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@75ee4": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@a72ab": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@a72ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@2224c": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@2224c",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@48b02": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@7d6ab": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@48b02"
+      ]
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@5f71a",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@7d6ab"
+      ]
+    }
+  },
+  "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@eb0d8": {
+    "url": "db://assets/art/mesh/Blade forge_Char.fbx@eb0d8",
+    "value": {
+      "depends": [
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@1dcb4",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@30732",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@84b9c",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@f1394",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@0fc45",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@75ee4",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@850f6",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@a72ab",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@39b7c",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@2224c",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@10dfa",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@87456",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@bbd92",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@faad7",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@5f71a",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c6e33",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@57146",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@129be",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@e9c47",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@c0bf2",
+        "a08ddfa0-ad14-4d42-b332-efa8e2ec9809@57146"
+      ]
+    }
+  },
+  "d97ba9c0-3897-4380-aa6f-4f0a36458ada": {
+    "url": "db://assets/Mesh/bottle1.fbx",
+    "value": {}
+  },
+  "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75": {
+    "url": "db://assets/Mesh/bottle1.fbx@80c75",
+    "value": {
+      "depends": []
+    }
+  },
+  "d97ba9c0-3897-4380-aa6f-4f0a36458ada@d2efd": {
+    "url": "db://assets/Mesh/bottle1.fbx@d2efd",
+    "value": {
+      "depends": [
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75"
+      ]
+    }
+  },
+  "f0ffc5c1-d3da-475c-8aae-269daf6d1aac": {
+    "url": "db://assets/Mesh/Cactus.fbx",
+    "value": {}
+  },
+  "f0ffc5c1-d3da-475c-8aae-269daf6d1aac@e2349": {
+    "url": "db://assets/Mesh/Cactus.fbx@e2349",
+    "value": {
+      "depends": []
+    }
+  },
+  "f0ffc5c1-d3da-475c-8aae-269daf6d1aac@5210e": {
+    "url": "db://assets/Mesh/Cactus.fbx@5210e",
+    "value": {
+      "depends": [
+        "f0ffc5c1-d3da-475c-8aae-269daf6d1aac@e2349"
+      ]
+    }
+  },
+  "1fae3d22-984d-4cc8-b4dc-9fdba47881a3": {
+    "url": "db://assets/Mesh/can.fbx",
+    "value": {}
+  },
+  "1fae3d22-984d-4cc8-b4dc-9fdba47881a3@b7142": {
+    "url": "db://assets/Mesh/can.fbx@b7142",
+    "value": {
+      "depends": []
+    }
+  },
+  "1fae3d22-984d-4cc8-b4dc-9fdba47881a3@8d825": {
+    "url": "db://assets/Mesh/can.fbx@8d825",
+    "value": {
+      "depends": [
+        "1fae3d22-984d-4cc8-b4dc-9fdba47881a3@b7142"
+      ]
+    }
+  },
+  "2e20cff0-2e5c-4f57-a66c-46d071395c72": {
+    "url": "db://assets/Mesh/soap.fbx",
+    "value": {}
+  },
+  "2e20cff0-2e5c-4f57-a66c-46d071395c72@a88f6": {
+    "url": "db://assets/Mesh/soap.fbx@a88f6",
+    "value": {
+      "depends": []
+    }
+  },
+  "2e20cff0-2e5c-4f57-a66c-46d071395c72@e3bc4": {
+    "url": "db://assets/Mesh/soap.fbx@e3bc4",
+    "value": {
+      "depends": [
+        "2e20cff0-2e5c-4f57-a66c-46d071395c72@a88f6"
+      ]
+    }
+  },
+  "5df68e70-d7da-46b9-8d6e-983cea3c3f17": {
+    "url": "db://assets/Material/cactus.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "9efa73cb-f316-4a4f-a028-2676b6905bf3@6c48a",
+        "9efa73cb-f316-4a4f-a028-2676b6905bf3@6c48a"
+      ]
+    }
+  },
+  "9efa73cb-f316-4a4f-a028-2676b6905bf3": {
+    "url": "db://assets/Texture/Cactus.png",
+    "value": {}
+  },
+  "9efa73cb-f316-4a4f-a028-2676b6905bf3@6c48a": {
+    "url": "db://assets/Texture/Cactus.png@6c48a",
+    "value": {
+      "depends": [
+        "9efa73cb-f316-4a4f-a028-2676b6905bf3"
+      ]
+    }
+  },
+  "50fe9e52-cc75-4514-9b6a-cde1eb947a7c": {
+    "url": "db://assets/Materials",
+    "value": {}
+  },
+  "fb90b868-6370-4bcb-9a70-af70ca6180f3": {
+    "url": "db://assets/Materials/Glass.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "d41c20cf-c1ae-490d-8397-6858fd02016b": {
+    "url": "db://assets/Prefab/Glass.prefab",
+    "value": {
+      "depends": [
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "d2bd4f33-7435-4a58-8095-43820b41ef31@75365"
+      ]
+    }
+  },
+  "ac94f3da-e6b6-4e66-8c7c-7814f8c860f1": {
+    "url": "db://assets/main.scene",
+    "value": {}
+  },
+  "9ac51807-0709-4904-910d-3a1e69a27206": {
+    "url": "db://assets/Material/grass.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "f27992a7-1f70-4500-9611-d27162c024d3@6c48a"
+      ]
+    }
+  },
+  "f27992a7-1f70-4500-9611-d27162c024d3": {
+    "url": "db://assets/Texture/grass.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f27992a7-1f70-4500-9611-d27162c024d3@6c48a": {
+    "url": "db://assets/Texture/grass.png@6c48a",
+    "value": {
+      "depends": [
+        "f27992a7-1f70-4500-9611-d27162c024d3"
+      ]
+    }
+  },
+  "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8": {
+    "url": "db://assets/Texture/Pointer.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8@6c48a": {
+    "url": "db://assets/Texture/Pointer.png@6c48a",
+    "value": {
+      "depends": [
+        "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8"
+      ]
+    }
+  },
+  "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8@f9941": {
+    "url": "db://assets/Texture/Pointer.png@f9941",
+    "value": {
+      "depends": [
+        "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8@6c48a"
+      ]
+    }
+  },
+  "f0c68caf-2de5-45a6-ac2a-6cbd5a86de7a": {
+    "url": "db://assets/script/WeaponManagement.ts",
+    "value": {}
+  },
+  "93714afd-a5f5-450d-b020-a7cb741dfac3": {
+    "url": "db://assets/script/GameManager.ts",
+    "value": {}
+  },
+  "2f605507-e4dd-4455-800e-55ddafb1c9fa": {
+    "url": "db://assets/Texture/godray.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2f605507-e4dd-4455-800e-55ddafb1c9fa@6c48a": {
+    "url": "db://assets/Texture/godray.png@6c48a",
+    "value": {
+      "depends": [
+        "2f605507-e4dd-4455-800e-55ddafb1c9fa"
+      ]
+    }
+  },
+  "2f605507-e4dd-4455-800e-55ddafb1c9fa@f9941": {
+    "url": "db://assets/Texture/godray.png@f9941",
+    "value": {
+      "depends": [
+        "2f605507-e4dd-4455-800e-55ddafb1c9fa@6c48a"
+      ]
+    }
+  },
+  "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e": {
+    "url": "db://assets/Texture/sword-png-24.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e@6c48a": {
+    "url": "db://assets/Texture/sword-png-24.png@6c48a",
+    "value": {
+      "depends": [
+        "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e"
+      ]
+    }
+  },
+  "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e@f9941": {
+    "url": "db://assets/Texture/sword-png-24.png@f9941",
+    "value": {
+      "depends": [
+        "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e@6c48a"
+      ]
+    }
+  },
+  "9e66c132-fbe3-42f5-b1cf-9c2fd1f5e94a": {
+    "url": "db://assets/Animations/pointerwobble.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "e38d3411-ab81-45bd-a073-cd99759f385d": {
+    "url": "db://assets/Animations/godray.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "976a46b7-008b-4ce1-a6cd-e713c66ea0fc": {
+    "url": "db://assets/Texture/Floor Tile.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "976a46b7-008b-4ce1-a6cd-e713c66ea0fc@6c48a": {
+    "url": "db://assets/Texture/Floor Tile.jpg@6c48a",
+    "value": {
+      "depends": [
+        "976a46b7-008b-4ce1-a6cd-e713c66ea0fc"
+      ]
+    }
+  },
+  "088d9ca3-2cd7-4728-89e7-e8e9cdf6ffad": {
+    "url": "db://assets/script/PlayerChop.ts",
+    "value": {}
+  },
+  "9910458f-58eb-4254-a201-f606151e6575": {
+    "url": "db://assets/Material/tree.pmtl",
+    "value": {}
+  },
+  "7d5131b3-6c69-4fe2-ae0a-80f1ac43920c": {
+    "url": "db://assets/test.scene",
+    "value": {}
+  },
+  "3786fa91-5f81-4597-a160-a2feef236523": {
+    "url": "db://assets/Prefabs/Mainplayer.prefab",
+    "value": {
+      "depends": [
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@880cf",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@5fd65",
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@37d9d",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8@f9941",
+        "9910458f-58eb-4254-a201-f606151e6575"
+      ]
+    }
+  },
+  "2755bac0-8351-43b8-abaa-4c4af5ea88bb": {
+    "url": "db://assets/Prefab/IdBr_character.prefab",
+    "value": {
+      "depends": [
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@37d9d",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@0c90c",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@e1cf9",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@438fe",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@953bc",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@5fd65",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@788c3",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@5fd65"
+      ]
+    }
+  },
+  "6bf59149-acd2-4f38-876a-76b98351c044": {
+    "url": "db://assets/Animations/swing.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "257148e6-a550-4795-8972-84a12ccece04": {
+    "url": "db://assets/Animations/treewobble.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "deaa3a77-1383-4795-b9cf-9c3b68f41201": {
+    "url": "db://assets/art/Materials",
+    "value": {}
+  },
+  "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e": {
+    "url": "db://assets/Prefabs/Poof.prefab",
+    "value": {
+      "depends": [
+        "bc21220b-37f7-4189-b551-47f6b84a9459",
+        "ce6f25e1-5ad8-4ea6-a351-79ccb8eec828@825ed",
+        "bc21220b-37f7-4189-b551-47f6b84a9459"
+      ]
+    }
+  },
+  "bc21220b-37f7-4189-b551-47f6b84a9459": {
+    "url": "db://assets/art/material/Sphere.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0"
+      ]
+    }
+  },
+  "ce6f25e1-5ad8-4ea6-a351-79ccb8eec828": {
+    "url": "db://assets/art/mesh/sphere.fbx",
+    "value": {}
+  },
+  "ce6f25e1-5ad8-4ea6-a351-79ccb8eec828@825ed": {
+    "url": "db://assets/art/mesh/sphere.fbx@825ed",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce6f25e1-5ad8-4ea6-a351-79ccb8eec828@7a715": {
+    "url": "db://assets/art/mesh/sphere.fbx@7a715",
+    "value": {
+      "depends": [
+        "ce6f25e1-5ad8-4ea6-a351-79ccb8eec828@825ed"
+      ]
+    }
+  },
+  "5940ab4e-5947-433d-9726-d5c8cb0506f0": {
+    "url": "db://assets/script/BarrelChop.ts",
+    "value": {}
+  },
+  "d468ba04-8873-4701-9f73-80fd450f63eb": {
+    "url": "db://assets/Animations/barrelcompress.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "66657f99-eff8-4ba0-ac77-1cf3b75f6b96": {
+    "url": "db://assets/art/PFX",
+    "value": {}
+  },
+  "fd88a05c-0d2b-4e51-89f9-8f06ed9ffaed": {
+    "url": "db://assets/art/PFX/Dust.prefab",
+    "value": {
+      "depends": [
+        "9a8dd05c-a482-4871-a85d-370ea2028994"
+      ]
+    }
+  },
+  "9a8dd05c-a482-4871-a85d-370ea2028994": {
+    "url": "db://assets/art/PFX/Dust.plist",
+    "value": {
+      "depends": []
+    }
+  },
+  "be12919a-35c4-4372-9e26-ccd564e0a3eb": {
+    "url": "db://assets/art/Prefab",
+    "value": {}
+  },
+  "e504f515-91c2-4564-a734-859b9621429f": {
+    "url": "db://assets/art/Prefab/PFX",
+    "value": {}
+  },
+  "8f8c3f5f-0614-4616-850f-d80ef8cfcc37": {
+    "url": "db://assets/art/material/PFX",
+    "value": {}
+  },
+  "30ef0d0e-f31f-4a01-b3df-83cd5d6b5f3a": {
+    "url": "db://assets/art/texture/PFX",
+    "value": {}
+  },
+  "09213a23-e19a-4b74-bd70-9e73dfebd3a7": {
+    "url": "db://assets/art/Prefab/PFX/Explosion.prefab",
+    "value": {
+      "depends": [
+        "3544531c-73a7-44a7-ae2a-d6939f4e9c82",
+        "3544531c-73a7-44a7-ae2a-d6939f4e9c82",
+        "664b75c1-cff8-45ff-8e71-1977a4d33dbe@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "620b1881-f51a-475f-988d-9044c3785bc9",
+        "620b1881-f51a-475f-988d-9044c3785bc9",
+        "40c61929-b435-46dd-bd45-5ff3f896f451@6c48a"
+      ]
+    }
+  },
+  "620b1881-f51a-475f-988d-9044c3785bc9": {
+    "url": "db://assets/art/material/PFX/Explosion.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "40c61929-b435-46dd-bd45-5ff3f896f451@6c48a"
+      ]
+    }
+  },
+  "3544531c-73a7-44a7-ae2a-d6939f4e9c82": {
+    "url": "db://assets/art/material/PFX/SmokePuff.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "664b75c1-cff8-45ff-8e71-1977a4d33dbe@6c48a"
+      ]
+    }
+  },
+  "40c61929-b435-46dd-bd45-5ff3f896f451": {
+    "url": "db://assets/art/texture/PFX/Expolsion.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "664b75c1-cff8-45ff-8e71-1977a4d33dbe": {
+    "url": "db://assets/art/texture/PFX/SmokePuff.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "664b75c1-cff8-45ff-8e71-1977a4d33dbe@6c48a": {
+    "url": "db://assets/art/texture/PFX/SmokePuff.png@6c48a",
+    "value": {
+      "depends": [
+        "664b75c1-cff8-45ff-8e71-1977a4d33dbe"
+      ]
+    }
+  },
+  "40c61929-b435-46dd-bd45-5ff3f896f451@6c48a": {
+    "url": "db://assets/art/texture/PFX/Expolsion.png@6c48a",
+    "value": {
+      "depends": [
+        "40c61929-b435-46dd-bd45-5ff3f896f451"
+      ]
+    }
+  },
+  "db6402f4-291e-4134-9163-e6f3249d74f8": {
+    "url": "db://assets/TEMp2.scene",
+    "value": {}
+  },
+  "d7e969c8-d3c4-4223-96b5-93c55ef4cc3e": {
+    "url": "db://assets/script/BottleChop.ts",
+    "value": {}
+  },
+  "5e86f084-6c06-4024-b4be-7fd36641b3ac": {
+    "url": "db://assets/art/texture/PfxTexture",
+    "value": {}
+  },
+  "8452506e-d1a0-4325-b659-6f23f6f3b506": {
+    "url": "db://assets/art/Prefab/Decision Gate1_left.prefab",
+    "value": {
+      "depends": [
+        "48ce9560-6024-4ba3-916b-bdd180887a02",
+        "48ce9560-6024-4ba3-916b-bdd180887a02",
+        "0755db80-44af-46c8-8e2b-5e530851fba3@6c48a"
+      ]
+    }
+  },
+  "48ce9560-6024-4ba3-916b-bdd180887a02": {
+    "url": "db://assets/art/material/PFX/brokenglass.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "0755db80-44af-46c8-8e2b-5e530851fba3@6c48a"
+      ]
+    }
+  },
+  "0755db80-44af-46c8-8e2b-5e530851fba3": {
+    "url": "db://assets/art/texture/PfxTexture/brokenGlass_2x2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0755db80-44af-46c8-8e2b-5e530851fba3@6c48a": {
+    "url": "db://assets/art/texture/PfxTexture/brokenGlass_2x2.png@6c48a",
+    "value": {
+      "depends": [
+        "0755db80-44af-46c8-8e2b-5e530851fba3"
+      ]
+    }
+  },
+  "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa": {
+    "url": "db://assets/Animations/glassShake.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "5b3b522e-bbf5-45b5-bef5-0c18a3301964": {
+    "url": "db://assets/Texture/circle.png",
+    "value": {}
+  },
+  "5b3b522e-bbf5-45b5-bef5-0c18a3301964@6c48a": {
+    "url": "db://assets/Texture/circle.png@6c48a",
+    "value": {
+      "depends": [
+        "5b3b522e-bbf5-45b5-bef5-0c18a3301964"
+      ]
+    }
+  },
+  "5b3b522e-bbf5-45b5-bef5-0c18a3301964@f9941": {
+    "url": "db://assets/Texture/circle.png@f9941",
+    "value": {
+      "depends": [
+        "5b3b522e-bbf5-45b5-bef5-0c18a3301964@6c48a"
+      ]
+    }
+  },
+  "b414a881-f03d-406b-8d8a-4f67226c7da9": {
+    "url": "db://assets/Texture/sw.jpg",
+    "value": {}
+  },
+  "b414a881-f03d-406b-8d8a-4f67226c7da9@6c48a": {
+    "url": "db://assets/Texture/sw.jpg@6c48a",
+    "value": {
+      "depends": [
+        "b414a881-f03d-406b-8d8a-4f67226c7da9"
+      ]
+    }
+  },
+  "b414a881-f03d-406b-8d8a-4f67226c7da9@f9941": {
+    "url": "db://assets/Texture/sw.jpg@f9941",
+    "value": {
+      "depends": [
+        "b414a881-f03d-406b-8d8a-4f67226c7da9@6c48a"
+      ]
+    }
+  },
+  "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a": {
+    "url": "db://assets/art/texture/CityMap_RoundedRectangle_2x2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c9a89b18-3da3-4303-975e-d89708dafc03": {
+    "url": "db://assets/art/texture/CopCarBlue.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1c2c2507-93af-424a-a7f4-26b2aaea1e40": {
+    "url": "db://assets/art/texture/CopCarRedHead.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c9a89b18-3da3-4303-975e-d89708dafc03@6c48a": {
+    "url": "db://assets/art/texture/CopCarBlue.png@6c48a",
+    "value": {
+      "depends": [
+        "c9a89b18-3da3-4303-975e-d89708dafc03"
+      ]
+    }
+  },
+  "1c2c2507-93af-424a-a7f4-26b2aaea1e40@6c48a": {
+    "url": "db://assets/art/texture/CopCarRedHead.png@6c48a",
+    "value": {
+      "depends": [
+        "1c2c2507-93af-424a-a7f4-26b2aaea1e40"
+      ]
+    }
+  },
+  "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@6c48a": {
+    "url": "db://assets/art/texture/CityMap_RoundedRectangle_2x2.png@6c48a",
+    "value": {
+      "depends": [
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a"
+      ]
+    }
+  },
+  "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@f9941": {
+    "url": "db://assets/art/texture/CityMap_RoundedRectangle_2x2.png@f9941",
+    "value": {
+      "depends": [
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@6c48a"
+      ]
+    }
+  },
+  "c9a89b18-3da3-4303-975e-d89708dafc03@f9941": {
+    "url": "db://assets/art/texture/CopCarBlue.png@f9941",
+    "value": {
+      "depends": [
+        "c9a89b18-3da3-4303-975e-d89708dafc03@6c48a"
+      ]
+    }
+  },
+  "1c2c2507-93af-424a-a7f4-26b2aaea1e40@f9941": {
+    "url": "db://assets/art/texture/CopCarRedHead.png@f9941",
+    "value": {
+      "depends": [
+        "1c2c2507-93af-424a-a7f4-26b2aaea1e40@6c48a"
+      ]
+    }
+  },
+  "1558f3fa-b53d-487c-907e-bc97bdf78184": {
+    "url": "db://assets/art/texture/rect.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1558f3fa-b53d-487c-907e-bc97bdf78184@6c48a": {
+    "url": "db://assets/art/texture/rect.png@6c48a",
+    "value": {
+      "depends": [
+        "1558f3fa-b53d-487c-907e-bc97bdf78184"
+      ]
+    }
+  },
+  "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941": {
+    "url": "db://assets/art/texture/rect.png@f9941",
+    "value": {
+      "depends": [
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@6c48a"
+      ]
+    }
+  },
+  "4b1eee3a-5837-417c-8847-980a0003e619": {
+    "url": "db://assets/resources/LilitaOne-Regular.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "11a1b886-a067-41bb-a274-0e1646360215": {
+    "url": "db://assets/Texture/tree.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "11a1b886-a067-41bb-a274-0e1646360215@6c48a": {
+    "url": "db://assets/Texture/tree.png@6c48a",
+    "value": {
+      "depends": [
+        "11a1b886-a067-41bb-a274-0e1646360215"
+      ]
+    }
+  },
+  "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3": {
+    "url": "db://assets/Texture/bottle.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3@6c48a": {
+    "url": "db://assets/Texture/bottle.png@6c48a",
+    "value": {
+      "depends": [
+        "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3"
+      ]
+    }
+  },
+  "d5c55cfc-3863-45bc-805d-cbda88121631": {
+    "url": "db://assets/Texture/barreal.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d5c55cfc-3863-45bc-805d-cbda88121631@6c48a": {
+    "url": "db://assets/Texture/barreal.png@6c48a",
+    "value": {
+      "depends": [
+        "d5c55cfc-3863-45bc-805d-cbda88121631"
+      ]
+    }
+  },
+  "11a1b886-a067-41bb-a274-0e1646360215@f9941": {
+    "url": "db://assets/Texture/tree.png@f9941",
+    "value": {
+      "depends": [
+        "11a1b886-a067-41bb-a274-0e1646360215@6c48a"
+      ]
+    }
+  },
+  "d5c55cfc-3863-45bc-805d-cbda88121631@f9941": {
+    "url": "db://assets/Texture/barreal.png@f9941",
+    "value": {
+      "depends": [
+        "d5c55cfc-3863-45bc-805d-cbda88121631@6c48a"
+      ]
+    }
+  },
+  "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3@f9941": {
+    "url": "db://assets/Texture/bottle.png@f9941",
+    "value": {
+      "depends": [
+        "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3@6c48a"
+      ]
+    }
+  },
+  "9a760e50-dedc-4e64-80b8-1a5c70ba89f3": {
+    "url": "db://assets/script/Counter.ts",
+    "value": {}
+  },
+  "c2ad7349-9b87-4fdd-973b-8221139dbb95": {
+    "url": "db://assets/script/GateChop.ts",
+    "value": {}
+  },
+  "3a538e60-667e-4b66-b22e-22392b6058f9": {
+    "url": "db://assets/Animations/brokengate.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "0f4c3a07-2c55-44e6-a16f-c0ffd1223a67": {
+    "url": "db://assets/Animations/godraySpin.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "92acc332-10f9-43ed-b6c8-c17d06d077e2": {
+    "url": "db://assets/art/Prefabs",
+    "value": {}
+  },
+  "e4801289-0afe-42b8-8f60-238d9e144f35": {
+    "url": "db://assets/art/material/Merging PFX Mat.mtl",
+    "value": {}
+  },
+  "4b3ed9e3-799f-4a04-a65c-1b54026ed47c": {
+    "url": "db://assets/art/Prefabs/Merging PFX.prefab",
+    "value": {
+      "depends": [
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a"
+      ]
+    }
+  },
+  "45953b01-f32e-41b6-a38e-eb99485a1a0b": {
+    "url": "db://assets/art/texture/cloud_2x2_hardshadow.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a": {
+    "url": "db://assets/art/texture/cloud_2x2_hardshadow.png@6c48a",
+    "value": {
+      "depends": [
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b"
+      ]
+    }
+  },
+  "45953b01-f32e-41b6-a38e-eb99485a1a0b@f9941": {
+    "url": "db://assets/art/texture/cloud_2x2_hardshadow.png@f9941",
+    "value": {
+      "depends": [
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a"
+      ]
+    }
+  },
+  "4e612f0d-1c6d-428d-acd5-91ce06bf21cb": {
+    "url": "db://assets/Prefab/blast.prefab",
+    "value": {
+      "depends": [
+        "e4801289-0afe-42b8-8f60-238d9e144f35",
+        "e4801289-0afe-42b8-8f60-238d9e144f35",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a"
+      ]
+    }
+  },
+  "be8f5f1f-d3fa-4f45-ad08-a30f725478bf": {
+    "url": "db://assets/Texture/control.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "be8f5f1f-d3fa-4f45-ad08-a30f725478bf@6c48a": {
+    "url": "db://assets/Texture/control.png@6c48a",
+    "value": {
+      "depends": [
+        "be8f5f1f-d3fa-4f45-ad08-a30f725478bf"
+      ]
+    }
+  },
+  "be8f5f1f-d3fa-4f45-ad08-a30f725478bf@f9941": {
+    "url": "db://assets/Texture/control.png@f9941",
+    "value": {
+      "depends": [
+        "be8f5f1f-d3fa-4f45-ad08-a30f725478bf@6c48a"
+      ]
+    }
+  },
+  "59d5ba01-1d17-4482-98fe-db478da8bb06": {
+    "url": "db://assets/Texture/hand.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "59d5ba01-1d17-4482-98fe-db478da8bb06@6c48a": {
+    "url": "db://assets/Texture/hand.png@6c48a",
+    "value": {
+      "depends": [
+        "59d5ba01-1d17-4482-98fe-db478da8bb06"
+      ]
+    }
+  },
+  "59d5ba01-1d17-4482-98fe-db478da8bb06@f9941": {
+    "url": "db://assets/Texture/hand.png@f9941",
+    "value": {
+      "depends": [
+        "59d5ba01-1d17-4482-98fe-db478da8bb06@6c48a"
+      ]
+    }
+  },
+  "6350ee40-ca46-44e2-915e-8fc7befc47ac": {
+    "url": "db://assets/Animations/cursor.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "3ec13dc2-c7b8-43ce-a6c4-2648f1b6506d": {
+    "url": "db://assets/Animations/endcard.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "b767fd9a-cd03-4014-89e8-9a4b2a520ac2": {
+    "url": "db://assets/script/Utilities",
+    "value": {}
+  },
+  "53e34203-83fc-4b10-8e80-41ac70a3e1ef": {
+    "url": "db://assets/script/Movement/CameraController.ts",
+    "value": {}
+  },
+  "4c69e017-5015-49c8-bc3e-b3deafe55b65": {
+    "url": "db://assets/script/Movement/PlayerController.ts",
+    "value": {}
+  },
+  "97e0b1dc-c193-474e-af73-5ec6388aacf7": {
+    "url": "db://assets/script/GamePlay",
+    "value": {}
+  },
+  "71726322-133d-4a67-9c07-b3f493fd0bdf": {
+    "url": "db://assets/art/material/PFX/Merging PFX Mat.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a"
+      ]
+    }
+  },
+  "f252d261-f4f2-47d2-80ac-11ab54814ee0": {
+    "url": "db://assets/Animations",
+    "value": {}
+  },
+  "41fbd95a-88da-4654-a67f-bd4aaa9b18d4": {
+    "url": "db://assets/scene/MainScene.scene",
+    "value": {
+      "depends": [
+        "41fbd95a-88da-4654-a67f-bd4aaa9b18d4",
+        "5f4d4337-8466-4175-9b71-a5d74f65ca58",
+        "9910458f-58eb-4254-a201-f606151e6575",
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@5f71a",
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@9c123",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@0c90c",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@e1cf9",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@438fe",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@5fd65",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@788c3",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@953bc",
+        "337401e8-20b1-460d-abc0-a6ed746a08ff@5fd65",
+        "3a6becdf-afaf-435a-b9d3-763041b5c882@37d9d",
+        "9910458f-58eb-4254-a201-f606151e6575",
+        "9ac51807-0709-4904-910d-3a1e69a27206",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "be503da1-85ea-4d68-bdd0-9f83b0ba8545",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "2f605507-e4dd-4455-800e-55ddafb1c9fa@f9941",
+        "e38d3411-ab81-45bd-a073-cd99759f385d",
+        "e38d3411-ab81-45bd-a073-cd99759f385d",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e@f9941",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "79b2ced1-d79b-4951-bc2f-cbf5732bc4b8@f9941",
+        "9e66c132-fbe3-42f5-b1cf-9c2fd1f5e94a",
+        "9e66c132-fbe3-42f5-b1cf-9c2fd1f5e94a",
+        "5df68e70-d7da-46b9-8d6e-983cea3c3f17",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d945ed29-80ec-4d3f-93c0-7f016f7b29b6@f9941",
+        "be8f5f1f-d3fa-4f45-ad08-a30f725478bf@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "11a1b886-a067-41bb-a274-0e1646360215@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "d5c55cfc-3863-45bc-805d-cbda88121631@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "11a1b886-a067-41bb-a274-0e1646360215@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "d5c55cfc-3863-45bc-805d-cbda88121631@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "d28e08fe-8341-4ef5-98dd-2ce3f5163ba3@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@f9941",
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@f9941",
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@f9941",
+        "1558f3fa-b53d-487c-907e-bc97bdf78184@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "59d5ba01-1d17-4482-98fe-db478da8bb06@f9941",
+        "6350ee40-ca46-44e2-915e-8fc7befc47ac",
+        "6350ee40-ca46-44e2-915e-8fc7befc47ac",
+        "3ec13dc2-c7b8-43ce-a6c4-2648f1b6506d",
+        "3ec13dc2-c7b8-43ce-a6c4-2648f1b6506d",
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@f9941",
+        "1c2c2507-93af-424a-a7f4-26b2aaea1e40@f9941",
+        "efdae5e9-03eb-4c8a-8133-8b952c7d8a7a@f9941",
+        "2f605507-e4dd-4455-800e-55ddafb1c9fa@f9941",
+        "0f4c3a07-2c55-44e6-a16f-c0ffd1223a67",
+        "0f4c3a07-2c55-44e6-a16f-c0ffd1223a67",
+        "c9a89b18-3da3-4303-975e-d89708dafc03@f9941",
+        "e9ae7ed3-234e-4a81-8ee2-c5a6ea6d575e@f9941",
+        "4b1eee3a-5837-417c-8847-980a0003e619",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "c6d0ea7c-a65d-4ef2-9b86-cda0c5a46783",
+        "1e6a4368-f8e4-47ce-bce4-7f3e163563a9@ed8b6",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "09213a23-e19a-4b74-bd70-9e73dfebd3a7",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "d468ba04-8873-4701-9f73-80fd450f63eb",
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "8452506e-d1a0-4325-b659-6f23f6f3b506",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "4e612f0d-1c6d-428d-acd5-91ce06bf21cb",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "8452506e-d1a0-4325-b659-6f23f6f3b506",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "4e612f0d-1c6d-428d-acd5-91ce06bf21cb",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "8452506e-d1a0-4325-b659-6f23f6f3b506",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "4e612f0d-1c6d-428d-acd5-91ce06bf21cb",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "8452506e-d1a0-4325-b659-6f23f6f3b506",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "4e612f0d-1c6d-428d-acd5-91ce06bf21cb",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "8452506e-d1a0-4325-b659-6f23f6f3b506",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "4e612f0d-1c6d-428d-acd5-91ce06bf21cb",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "8452506e-d1a0-4325-b659-6f23f6f3b506",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "4e612f0d-1c6d-428d-acd5-91ce06bf21cb",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "1dde0fcb-ecd3-4dc5-abe1-a04580ecfafa",
+        "ced56065-b4ec-4baa-97f4-c18ad285d983",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "4b3ed9e3-799f-4a04-a65c-1b54026ed47c",
+        "ced56065-b4ec-4baa-97f4-c18ad285d983",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "4b3ed9e3-799f-4a04-a65c-1b54026ed47c",
+        "ced56065-b4ec-4baa-97f4-c18ad285d983",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "4b3ed9e3-799f-4a04-a65c-1b54026ed47c",
+        "ced56065-b4ec-4baa-97f4-c18ad285d983",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "1dd3d107-2aa6-4bbc-a3eb-17cc48c3bd7e",
+        "4b3ed9e3-799f-4a04-a65c-1b54026ed47c",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "fb90b868-6370-4bcb-9a70-af70ca6180f3",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941",
+        "48ce9560-6024-4ba3-916b-bdd180887a02",
+        "48ce9560-6024-4ba3-916b-bdd180887a02",
+        "0755db80-44af-46c8-8e2b-5e530851fba3@6c48a",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "71726322-133d-4a67-9c07-b3f493fd0bdf",
+        "45953b01-f32e-41b6-a38e-eb99485a1a0b@6c48a",
+        "3a538e60-667e-4b66-b22e-22392b6058f9",
+        "3a538e60-667e-4b66-b22e-22392b6058f9",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "9937e160-e0a5-4f40-a065-ff520ed961cf",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ]
+    }
+  },
+  "24c14c78-e5c8-4639-bfa2-3c10c5578ea2": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "926b6017-2f09-488d-8bf9-dcb1132d85af": {
+    "url": "db://assets/Texture/Pi7_circle.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "926b6017-2f09-488d-8bf9-dcb1132d85af@6c48a": {
+    "url": "db://assets/Texture/Pi7_circle.png@6c48a",
+    "value": {
+      "depends": [
+        "926b6017-2f09-488d-8bf9-dcb1132d85af"
+      ]
+    }
+  },
+  "926b6017-2f09-488d-8bf9-dcb1132d85af@f9941": {
+    "url": "db://assets/Texture/Pi7_circle.png@f9941",
+    "value": {
+      "depends": [
+        "926b6017-2f09-488d-8bf9-dcb1132d85af@6c48a"
+      ]
+    }
+  },
+  "193bd855-084a-4e01-9084-5ddecfdad771": {
+    "url": "db://assets/resources/audio",
+    "value": {}
+  },
+  "ac736050-d38c-4786-b6b7-a143d5653795": {
+    "url": "db://assets/res/Audio/Glass piece002.mp3",
+    "value": {}
+  },
+  "e13b509e-e09a-46a9-a142-7b99aea45520": {
+    "url": "db://assets/res/Audio/knife_tip_into_wood_001_48475 (1).mp3",
+    "value": {}
+  },
+  "9fde05d5-9c86-4dda-8fde-f48f96c0241f": {
+    "url": "db://assets/resources/audio/barrealAudio.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "66ee7c47-1917-4e65-9166-941b9a97e471": {
+    "url": "db://assets/resources/audio/bottleAudio.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "6c53536a-9b3e-4956-b09c-112588b11994": {
+    "url": "db://assets/resources/audio/woodAudio.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "82ef8bd7-a8a7-4aa0-b08e-294134af6b26": {
+    "url": "db://assets/script/AudioManager.ts",
+    "value": {}
+  },
+  "88278f13-a108-488a-ab1f-a6cb12f41dfc": {
+    "url": "db://assets/script/super_html",
+    "value": {}
+  },
+  "25206aab-a7ab-4714-8e90-edc560d92ea6": {
+    "url": "db://assets/script/super_html/super_html_playable.ts",
+    "value": {}
+  }
+}

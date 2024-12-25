@@ -1,0 +1,14 @@
+{
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "scenes": [
+      {
+        "url": "db://assets/TEMp2.scene",
+        "uuid": "db6402f4-291e-4134-9163-e6f3249d74f8",
+        "inBundle": false
+      }
+    ]
+  }
+}

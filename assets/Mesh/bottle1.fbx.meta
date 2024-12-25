@@ -1,0 +1,60 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d97ba9c0-3897-4380-aa6f-4f0a36458ada",
+  "files": [],
+  "subMetas": {
+    "80c75": {
+      "importer": "gltf-mesh",
+      "uuid": "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75",
+      "displayName": "",
+      "id": "80c75",
+      "name": "Mesh.001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2efd": {
+      "importer": "gltf-scene",
+      "uuid": "d97ba9c0-3897-4380-aa6f-4f0a36458ada@d2efd",
+      "displayName": "",
+      "id": "d2efd",
+      "name": "bottle1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d97ba9c0-3897-4380-aa6f-4f0a36458ada@d2efd",
+    "assetFinder": {
+      "meshes": [
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@80c75"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d97ba9c0-3897-4380-aa6f-4f0a36458ada@d2efd"
+      ]
+    }
+  }
+}
